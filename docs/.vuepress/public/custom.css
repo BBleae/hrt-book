@@ -1,0 +1,23 @@
+.pink {
+  color: #ffa6e8 !important;
+}
+
+.blue {
+  color: #6fa8dc !important;
+}
+
+.green {
+  color: #a1ff5e !important;
+}
+
+.yellow {
+  color: #f9cb9c !important;
+}
+
+.red {
+  color: #ff5353 !important;
+}
+
+center > table {
+  display: inline-block;
+}
