@@ -13,6 +13,6 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.VERCEL_DEPLOY }}
         TARGET_REPO: KiritaniAyaka/mtf-hrt-docs
         TARGET_BRANCH: vercel
-        BUILD_SCRIPT: yarn && yarn docs:build
+        BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: docs/.vuepress/dist/
         COMMIT_MESSAGE:  Vercel Pages Deploy
