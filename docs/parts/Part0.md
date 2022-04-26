@@ -42,85 +42,83 @@ dysphoria).为跨性别女性提供性激素药物、孕激素类药物、抗雄
 
 ![](../imgs/e2-p4-cycle.png)
 
-<center>Graph: 绝经前女性的雌二醇和黄体 酮水平中位数 (<a href="https://doi.org/10.1515/CCLM.2006.160">Stricker et al., 2006</a>; <a href="https://web.archive.org/web/20200127014925/http://www.ilexmedical.com/files/PDF/Estradiol_ARC.pdfs">Abbott, 2009</a>)</center>
+Graph: 绝经前女性的雌二醇和黄体 酮水平中位数 (<a href="https://doi.org/10.1515/CCLM.2006.160">Stricker et al., 2006</a>; <a href="https://web.archive.org/web/20200127014925/http://www.ilexmedical.com/files/PDF/Estradiol_ARC.pdfs">Abbott, 2009</a>)
 
-<center>其他图表显示个体差别：
+其他图表显示个体差别：
 <a href="https://commons.wikimedia.org/wiki/File:Estradiol_levels_with_LC-MS-MS_during_the_normal_menstrual_cycle_in_women.png">Wiki-Graph</a>;
 <a href="https://commons.wikimedia.org/wiki/File:Estradiol_levels_during_therapy_with_0.25_mg_buccal_estradiol_in_postmenopausal_women.png">Wiki-Graph</a>;
-<a href="https://en.wikipedia.org/wiki/Template:Hormone_levels_with_estradiol_esters_by_intramuscular_injection">Wiki-Graph</a></center>
+<a href="https://en.wikipedia.org/wiki/Template:Hormone_levels_with_estradiol_esters_by_intramuscular_injection">Wiki-Graph</a>
 
-<center>
-	<table>
-		<caption>Table: 采用最顶尖技术-血液测试——激素水平范围 <a href="https://doi.org/10.1016/B978-0-323-18907-1.00154-2">(Nakamoto, 2016)</a></caption>
-		<thead>
-			<tr>
-				<td>激素</td>
-				<td>性别</td>
-				<td>时间</td>
-				<td>水平范围</td>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td rowspan="5">雌二醇 (E2)</td>
-				<td rowspan="4">女性</td>
-				<td>月经周期</td>
-				<td>6–373 pg/mL</td>
-			</tr>
-			<tr>
-				<td>卵泡期</td>
-				<td>6–182 pg/mL</td>
-			</tr>
-			<tr>
-				<td>排卵期</td>
-				<td>44–373 pg/mL</td>
-			</tr>
-			<tr>
-				<td>黄体期</td>
-				<td>18–219 pg/mL</td>
-			</tr>
-			<tr>
-				<td>男性</td>
-				<td>N/A</td>
-				<td>≤29 pg/mL</td>
-			</tr>
-			<tr>
-				<td rowspan="5">黄体酮 (P4)</td>
-				<td rowspan="4">女性</td>
-				<td>月经周期</td>
-				<td>≤0.3–22 ng/mL</td>
-			</tr>
-			<tr>
-				<td>卵泡期</td>
-				<td>≤0.3 ng/mL</td>
-			</tr>
-			<tr>
-				<td>排卵期</td>
-				<td>0.1–1.5 ng/mL</td>
-			</tr>
-			<tr>
-				<td>黄体期</td>
-				<td>6.7–22 ng/mL</td>
-			</tr>
-			<tr>
-				<td>男性</td>
-				<td>N/A</td>
-				<td>≤0.4 ng/mL</td>
-			</tr>
-			<tr>
-				<td rowspan="2">睾酮 (T)</td>
-				<td>女性</td>
-				<td>月经周期</td>
-				<td>5–45 ng/dL</td>
-			</tr>
-			<tr>
-				<td>男性</td>
-				<td>N/A</td>
-				<td>250–1100 ng/dL</td>
-			</tr>
-		</tbody>
-	</table>
-</center>
+<table>
+	<caption>Table: 采用最顶尖技术-血液测试——激素水平范围 <a href="https://doi.org/10.1016/B978-0-323-18907-1.00154-2">(Nakamoto, 2016)</a></caption>
+	<thead>
+		<tr>
+			<td>激素</td>
+			<td>性别</td>
+			<td>时间</td>
+			<td>水平范围</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="5">雌二醇 (E2)</td>
+			<td rowspan="4">女性</td>
+			<td>月经周期</td>
+			<td>6–373 pg/mL</td>
+		</tr>
+		<tr>
+			<td>卵泡期</td>
+			<td>6–182 pg/mL</td>
+		</tr>
+		<tr>
+			<td>排卵期</td>
+			<td>44–373 pg/mL</td>
+		</tr>
+		<tr>
+			<td>黄体期</td>
+			<td>18–219 pg/mL</td>
+		</tr>
+		<tr>
+			<td>男性</td>
+			<td>N/A</td>
+			<td>≤29 pg/mL</td>
+		</tr>
+		<tr>
+			<td rowspan="5">黄体酮 (P4)</td>
+			<td rowspan="4">女性</td>
+			<td>月经周期</td>
+			<td>≤0.3–22 ng/mL</td>
+		</tr>
+		<tr>
+			<td>卵泡期</td>
+			<td>≤0.3 ng/mL</td>
+		</tr>
+		<tr>
+			<td>排卵期</td>
+			<td>0.1–1.5 ng/mL</td>
+		</tr>
+		<tr>
+			<td>黄体期</td>
+			<td>6.7–22 ng/mL</td>
+		</tr>
+		<tr>
+			<td>男性</td>
+			<td>N/A</td>
+			<td>≤0.4 ng/mL</td>
+		</tr>
+		<tr>
+			<td rowspan="2">睾酮 (T)</td>
+			<td>女性</td>
+			<td>月经周期</td>
+			<td>5–45 ng/dL</td>
+		</tr>
+		<tr>
+			<td>男性</td>
+			<td>N/A</td>
+			<td>250–1100 ng/dL</td>
+		</tr>
+	</tbody>
+</table>
 
 **女性月经周期：**
 
@@ -142,7 +140,7 @@ dysphoria).为跨性别女性提供性激素药物、孕激素类药物、抗雄
 
 ![](../imgs/pep-e2-t.png)
 
-<center>Figure: 单次 320mg 聚磷酸雌二醇(PEP)注射后前列腺癌患者的雌二醇与睾酮水平 (<a href="https://doi.org/10.1002%2F%28SICI%291097-0045%28199605%2928%3A5%3C307%3A%3AAID-PROS6%3E3.0.CO%3B2-8">Stege et al., 1996</a>)</center>
+Figure: 单次 320mg 聚磷酸雌二醇(PEP)注射后前列腺癌患者的雌二醇与睾酮水平 (<a href="https://doi.org/10.1002%2F%28SICI%291097-0045%28199605%2928%3A5%3C307%3A%3AAID-PROS6%3E3.0.CO%3B2-8">Stege et al., 1996</a>)
 
 雌激素与孕激素的抗促性腺激素作用在跨性别 HRT 中被用于抑制性腺 来达到女性激素水平目标.但同时也必须注意，这些数值是平均数值， 个人可达到的睾酮抑制因人而异.有些人可能会需要更高或更低的激素 药物剂量来达到同等参考数值的睾酮抑制.
 
