@@ -5,7 +5,7 @@ const config: ThemeConfig = {
 	title: 'MtF HRT Docs',
 	description: 'MtF HRT Docs',
 	head: [
-		['link', { rel: 'icon', href: '/logo.png' }],
+		['link', { rel: 'icon', href: '/favicon.ico' }],
 		['link', { rel: 'stylesheet', href: '/custom.css', type: 'text/css' }],
 	],
 	theme: '@vuepress/theme-default',
