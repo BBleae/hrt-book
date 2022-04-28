@@ -1,3 +1,6 @@
+---
+sidebar: false
+---
 # Credits
 
 ## しず / shizu —— [Twitter](https://twitter.com/shizunyan_)

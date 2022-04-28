@@ -6,6 +6,7 @@
 
 - 戊酸雌二醇 (Estradiol Valerate / EV)
   - 补佳乐
+  - “日雌”
 - 庚酸雌二醇 (Estradiol Enanthate / EEn)
 - 环戊丙酸雌二醇 (Estradiol Cypionate / EC)
 - 苯甲酸雌二醇 (Estradiol Benzoate / EB)
