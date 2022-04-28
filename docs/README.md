@@ -1,6 +1,13 @@
 ---
+home: true
 sidebar: false
+heroImage: /logo.png
+actions:
+  - text: 文档目录
+    link: /menu/
+    type: primary
 ---
+
 # MtF HRT 资料 (v1.0.6) by shizu
 
 > 这是一份关于跨性别激素治疗(HRT)的医学资料
@@ -10,5 +17,3 @@ sidebar: false
 > 同时也写有作者推荐的外国药商一列，可能在价钱上会比某 些姐妹的药商更便宜 (特别是比卡鲁胺)，有需要的话可以看看.
 
 > 作者是日本人所以这份资料可能在中文语法上有些不流利， 请大家多多见谅.
-
-*什么，你问我正文在哪里？点击页面上方菜单里的“目录”试试吧！*
