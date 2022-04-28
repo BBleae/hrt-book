@@ -1,3 +1,6 @@
+---
+sidebar: false
+---
 # MtF HRT 资料 (v1.0.6) by shizu
 
 > 这是一份关于跨性别激素治疗(HRT)的医学资料
