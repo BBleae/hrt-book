@@ -11,20 +11,28 @@ const config: ThemeConfig = {
   theme: "@vuepress/theme-default",
   themeConfig: {
     logo: "/logo.png",
-    contributors: false,
+    repo: "BBleae/hrt-book",
+    repoLabel: "GitHub",
+    docsRepo: "BBleae/hrt-book",
+    docsDir: "docs",
+    docsBranch: "main",
+    editLinks: true,
+    editLinkText: "编辑本页面",
+    contributors: true,
+		contributorsText: "贡献者",
     lastUpdated: false,
     externalLinkIcon: true,
     navbar: [
       {
-        text: "Home",
+        text: "首页",
         link: "/",
       },
       {
-        text: "Menu",
+        text: "目录",
         link: "/menu/",
       },
       {
-        text: "Link",
+        text: "链接",
         link: "/link/",
       },
       {
