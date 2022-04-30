@@ -115,7 +115,7 @@
 
 [8.2. 醋酸环丙孕酮 (CPA) —— 价格、药商链接、仿制药名](../parts/Part8.md#醋酸环丙孕酮-cyproterone-acetate-cpa)
 
-[8.2.1. 过量的孕激素作用](../parts/Part8.md#醋酸环丙孕酮-cpa)
+[8.2.1. 过量的孕激素作用](../parts/Part8.md#cpa-导致过量的孕激素作用)
 
 [8.2.2. 低剂量 vs 高剂量](../parts/Part8.md#低剂量与高剂量-——-睾酮抑制能力的差别)
 
@@ -125,15 +125,13 @@
 
 [8.2.5. 推荐剂量](../parts/Part8.md#cpa-推荐剂量)
 
-[8.2.6. 副作用 (上)](../parts/Part8.md#cpa-主要的副作用)
+[8.2.6. 副作用](../parts/Part8.md#cpa-主要的副作用)
 
-[8.2.7. 副作用 (下)](../parts/Part8.md#cpa-主要的副作用)
+[8.2.7. 血药浓度 (图表)](../parts/Part8.md#cpa-血药浓度)
 
-[8.2.8. 血药浓度 (图表)](../parts/Part8.md#cpa-血药浓度)
+[8.2.8. CPA —— 血液检查项目、建议与结论](../parts/Part8.md#cpa-——-血液检查项目、建议与结论)
 
-[8.2.9. CPA —— 血液检查项目、建议与结论](../parts/Part8.md#cpa-——-血液检查项目、建议与结论)
-
-[8.3. 螺内酯 (Spironolactone) —— 价格、药商链接、仿制药名](../parts/Part8.md#螺内酯-spironolactone-1)
+[8.3. 螺内酯 (Spironolactone) —— 价格、药商链接、仿制药名](../parts/Part8.md#螺内酯)
 
 [8.3.1. 介绍、抗雄机理、推荐剂量](../parts/Part8.md#螺内酯)
 
@@ -143,7 +141,7 @@
 
 [8.3.4. 螺内酯 —— 血液检查项目、建议与结论](../parts/Part8.md#螺内酯-——-血液检查项目、建议与结论)
 
-[8.4. 比卡鲁胺 (Bicalutamide) —— 价格、药商链接、仿制药名](../parts/Part8.md#比卡鲁胺-bicalutamide-1)
+[8.4. 比卡鲁胺 (Bicalutamide) —— 价格、药商链接、仿制药名](../parts/Part8.md#比卡鲁胺)
 
 [8.4.1. 介绍、抗雄机理](../parts/Part8.md#比卡鲁胺)
 
@@ -155,19 +153,15 @@
 
 [8.4.5. 稳态血药浓度 (图表)](../parts/Part8.md#比卡鲁胺稳态血药浓度)
 
-[8.4.6. 单疗的抗雄激素作用 —— 图表 (上)](../parts/Part8.md#比卡鲁胺-——-单药治疗的抗雄激素作用)
-
-[8.4.7. 单疗的抗雄激素作用 —— 图表 (下)](../parts/Part8.md#比卡鲁胺-——-单药治疗的抗雄激素作用)
+[8.4.6. 单疗的抗雄激素作用 —— 图表](../parts/Part8.md#比卡鲁胺-——-单药治疗的抗雄激素作用)
 
 [8.4.8. 比卡鲁胺 —— 血液检查项目](../parts/Part8.md#比卡鲁胺-——-血液检查项目)
 
-[8.4.9. 比卡鲁胺 Q&A (上)](../parts/Part8.md#比卡鲁胺问答-q-a)
+[8.4.9. 比卡鲁胺 Q&A](../parts/Part8.md#比卡鲁胺问答-q-a)
 
-[8.4.10. 比卡鲁胺 Q&A (下)](../parts/Part8.md#比卡鲁胺问答-q-a)
+[8.4.10. 比卡鲁胺 —— 留意事项、结论](../parts/Part8.md#比卡鲁胺-——-留意事项、结论)
 
-[8.4.11. 比卡鲁胺 —— 留意事项、结论](../parts/Part8.md#比卡鲁胺-——-留意事项、结论)
-
-[8.4.12. 有关比卡鲁胺的文献](../parts/Part8.md#关于比卡鲁胺作为跨性别女性-hrt-抗雄激素药物——已发布的所有文献-all-published-literature-on-bicalutamide)
+[8.4.11. 有关比卡鲁胺的文献](../parts/Part8.md#关于比卡鲁胺作为跨性别女性-hrt-抗雄激素药物——已发布的所有文献-all-published-literature-on-bicalutamide)
 
 ## [Part 9 附录](../parts/Part9.md)
 
