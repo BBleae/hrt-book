@@ -18,6 +18,10 @@
   color: #ff5353 !important;
 }
 
+.secondaryList {
+  margin-left: 2rem;
+}
+
 center > table {
   display: inline-block;
 }
