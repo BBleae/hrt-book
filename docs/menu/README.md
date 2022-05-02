@@ -155,13 +155,13 @@
 
 [8.4.6. 单疗的抗雄激素作用 —— 图表](../parts/Part8.md#比卡鲁胺-——-单药治疗的抗雄激素作用) {.secondaryList}
 
-[8.4.8. 比卡鲁胺 —— 血液检查项目](../parts/Part8.md#比卡鲁胺-——-血液检查项目) {.secondaryList}
+[8.4.7. 比卡鲁胺 —— 血液检查项目](../parts/Part8.md#比卡鲁胺-——-血液检查项目) {.secondaryList}
 
-[8.4.9. 比卡鲁胺 Q&A](../parts/Part8.md#比卡鲁胺问答-q-a) {.secondaryList}
+[8.4.8. 比卡鲁胺 Q&A](../parts/Part8.md#比卡鲁胺问答-q-a) {.secondaryList}
 
-[8.4.10. 比卡鲁胺 —— 留意事项、结论](../parts/Part8.md#比卡鲁胺-——-留意事项、结论) {.secondaryList}
+[8.4.9. 比卡鲁胺 —— 留意事项、结论](../parts/Part8.md#比卡鲁胺-——-留意事项、结论) {.secondaryList}
 
-[8.4.11. 有关比卡鲁胺的文献](../parts/Part8.md#关于比卡鲁胺作为跨性别女性-hrt-抗雄激素药物——已发布的所有文献-all-published-literature-on-bicalutamide) {.secondaryList}
+[8.4.10. 有关比卡鲁胺的文献](../parts/Part8.md#关于比卡鲁胺作为跨性别女性-hrt-抗雄激素药物——已发布的所有文献-all-published-literature-on-bicalutamide) {.secondaryList}
 
 ## [Part 9 附录](../parts/Part9.md)
 
