@@ -1,4 +1,4 @@
-import { defineUserConfig } from 'vuepress'
+import { defineUserConfig, defaultTheme } from 'vuepress'
 import markdownItAttrs from 'markdown-it-attrs'
 import markdownItBracketedSpans from 'markdown-it-bracketed-spans'
 
@@ -10,8 +10,7 @@ const config = defineUserConfig({
 		["link", { rel: "icon", href: "/favicon.ico" }],
 		["link", { rel: "stylesheet", href: "/custom.css", type: "text/css" }],
 	],
-	theme: "@vuepress/theme-default",
-	themeConfig: {
+	theme: defaultTheme({
 		logo: "/logo.png",
 		repo: "BBleae/hrt-book",
 		repoLabel: "GitHub",
@@ -42,7 +41,7 @@ const config = defineUserConfig({
 				link: "/credits/",
 			},
 		],
-	},
+	}),
 	extendsMarkdown: (md, app) => {
 		md.use(markdownItBracketedSpans)
 		md.use(markdownItAttrs)
