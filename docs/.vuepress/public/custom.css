@@ -1,6 +1,7 @@
 .pink {
-  color: #db2777;
+  color: #ff56a2;
 }
+
 .dark .pink {
   color: #ffa6e8;
 }
@@ -8,20 +9,23 @@
 .blue {
   color: #0284c7;
 }
+
 .dark .blue {
-  color: #6fa8dc;
+  color: #7dc0ff;
 }
 
 .green {
   color: #059669;
 }
+
 .dark .green {
-  color: #a1ff5e;
+  color: #87cc55;
 }
 
 .yellow {
   color: #eab308;
 }
+
 .dark .yellow {
   color: #f9cb9c;
 }
@@ -29,6 +33,7 @@
 .red {
   color: #dc2626;
 }
+
 .dark .red {
   color: #ff5353;
 }
