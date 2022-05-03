@@ -1,21 +1,36 @@
 .pink {
-  color: #ffa6e8 !important;
+  color: #db2777;
+}
+.dark .pink {
+  color: #ffa6e8;
 }
 
 .blue {
-  color: #6fa8dc !important;
+  color: #0284c7;
+}
+.dark .blue {
+  color: #6fa8dc;
 }
 
 .green {
-  color: #a1ff5e !important;
+  color: #059669;
+}
+.dark .green {
+  color: #a1ff5e;
 }
 
 .yellow {
-  color: #f9cb9c !important;
+  color: #eab308;
+}
+.dark .yellow {
+  color: #f9cb9c;
 }
 
 .red {
-  color: #ff5353 !important;
+  color: #dc2626;
+}
+.dark .red {
+  color: #ff5353;
 }
 
 .secondaryList {
