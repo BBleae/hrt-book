@@ -1,6 +1,8 @@
 import { defineUserConfig, defaultTheme } from 'vuepress'
 import markdownItAttrs from 'markdown-it-attrs'
 import markdownItBracketedSpans from 'markdown-it-bracketed-spans'
+import { path } from '@vuepress/utils'
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
 const config = defineUserConfig({
 	lang: "zh-CN",
@@ -45,7 +47,12 @@ const config = defineUserConfig({
 	extendsMarkdown: (md, app) => {
 		md.use(markdownItBracketedSpans)
 		md.use(markdownItAttrs)
-	}
+	},
+	plugins: [
+		registerComponentsPlugin({
+			componentsDir: path.join(__dirname, './components')
+		})
+	],
 })
 
 module.exports = config
