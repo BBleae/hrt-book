@@ -54,7 +54,6 @@
 
 [3.4. 非天然雌激素 —— 肝脏代谢抗性](../parts/Part3.md#非天然雌激素-——-肝脏代谢抗性)
 
-
 ## [Part 4 雌酮 (Estrone) 篇](../parts/Part4.md)
 
 [4.1. 口服雌二醇的效果、雌酮的作用](../parts/Part4.md#口服雌二醇的效果、雌酮的作用)
@@ -103,7 +102,7 @@
 
 [7.1. 5α-还原酶抑制剂 —— 价格、药商链接、仿制药名](../parts/Part7.md#_5α-还原酶抑制剂)
 
-[7.2. 非那雄胺、度他雄胺 (介绍、副作用、推荐剂量)](../parts/Part7.md#_5α-还原酶抑制剂-1)
+[7.2. 非那雄胺、度他雄胺 (介绍、副作用、推荐剂量)](../parts/Part7.md#介绍)
 
 [7.3. DHT 的合成途径](../parts/Part7.md#dht-的合成途径)
 
@@ -111,55 +110,55 @@
 
 ## [Part 8 抗雄激素药物 (Antiandrogens) 篇](../parts/Part8.md)
 
-[8.1. 抗雄激素药物一列、排名](../parts/Part8.md#抗雄激素药物-antiandrogens)
+[8.1. 抗雄激素药物一列、排名](../parts/Part8.md#种类)
 
-[8.2. 醋酸环丙孕酮 (CPA) —— 价格、药商链接、仿制药名](../parts/Part8.md#醋酸环丙孕酮-cyproterone-acetate-cpa)
+[8.2. 醋酸环丙孕酮 (CPA) —— 价格、药商链接、仿制药名](../parts/Part8.md#醋酸环丙孕酮-cpa)
 
-[8.2.1. 过量的孕激素作用](../parts/Part8.md#cpa-导致过量的孕激素作用) {.secondaryList}
+[8.2.1. 过量的孕激素作用](../parts/Part8.md#cpa-过量孕激素作用) {.secondaryList}
 
-[8.2.2. 低剂量 vs 高剂量](../parts/Part8.md#低剂量与高剂量-——-睾酮抑制能力的差别) {.secondaryList}
+[8.2.2. 低剂量 vs 高剂量](../parts/Part8.md#cpa-剂量与睾酮抑制能力) {.secondaryList}
 
-[8.2.3. CPA 配合雌激素使用 —— 睾酮抑制作用](../parts/Part8.md#cpa-配合雌激素的使用-——-睾酮抑制作用) {.secondaryList}
+[8.2.3. CPA 配合雌激素使用 —— 睾酮抑制作用](../parts/Part8.md#cpa-配合雌激素的睾酮抑制作用) {.secondaryList}
 
-[8.2.4. 高剂量 CPA 的 AR 拮抗作用](../parts/Part8.md#cpa-临床剂量范围-——-第二抗雄机理) {.secondaryList}
+[8.2.4. 高剂量 CPA 的 AR 拮抗作用](../parts/Part8.md#cpa-第二抗雄机理) {.secondaryList}
 
 [8.2.5. 推荐剂量](../parts/Part8.md#cpa-推荐剂量) {.secondaryList}
 
-[8.2.6. 副作用](../parts/Part8.md#cpa-主要的副作用) {.secondaryList}
+[8.2.6. 副作用](../parts/Part8.md#cpa-主要风险) {.secondaryList}
 
 [8.2.7. 血药浓度 (图表)](../parts/Part8.md#cpa-血药浓度) {.secondaryList}
 
-[8.2.8. CPA —— 血液检查项目、建议与结论](../parts/Part8.md#cpa-——-血液检查项目、建议与结论) {.secondaryList}
+[8.2.8. CPA —— 血液检查项目、建议与结论](../parts/Part8.md#cpa-血液检查项目) {.secondaryList}
 
 [8.3. 螺内酯 (Spironolactone) —— 价格、药商链接、仿制药名](../parts/Part8.md#螺内酯)
 
 [8.3.1. 介绍、抗雄机理、推荐剂量](../parts/Part8.md#螺内酯) {.secondaryList}
 
-[8.3.2. 副作用、药物相互作用](../parts/Part8.md#螺内酯主要的副作用) {.secondaryList}
+[8.3.2. 副作用、药物相互作用](../parts/Part8.md#螺内酯-主要副作用) {.secondaryList}
 
-[8.3.3. 排除半衰期 —— 图表](../parts/Part8.md#排除半衰期-elimination-half-life) {.secondaryList}
+[8.3.3. 排除半衰期 —— 图表](../parts/Part8.md#螺内酯-药代动力学) {.secondaryList}
 
-[8.3.4. 螺内酯 —— 血液检查项目、建议与结论](../parts/Part8.md#螺内酯-——-血液检查项目、建议与结论) {.secondaryList}
+[8.3.4. 螺内酯 —— 血液检查项目、建议与结论](../parts/Part8.md#螺内酯-总结) {.secondaryList}
 
 [8.4. 比卡鲁胺 (Bicalutamide) —— 价格、药商链接、仿制药名](../parts/Part8.md#比卡鲁胺)
 
 [8.4.1. 介绍、抗雄机理](../parts/Part8.md#比卡鲁胺) {.secondaryList}
 
-[8.4.2. 副作用](../parts/Part8.md#比卡鲁胺-——-副作用) {.secondaryList}
+[8.4.2. 副作用](../parts/Part8.md#比卡鲁胺-副作用) {.secondaryList}
 
 [8.4.3. 单疗副作用 —— 乳房发育 (Gynecomastia)](../parts/Part8.md#比卡鲁胺单药治疗最大的副作用——乳房发育-gynecomastia) {.secondaryList}
 
-[8.4.4. 推荐剂量](../parts/Part8.md#比卡鲁胺使用剂量) {.secondaryList}
+[8.4.4. 推荐剂量](../parts/Part8.md#比卡鲁胺-剂量) {.secondaryList}
 
 [8.4.5. 稳态血药浓度 (图表)](../parts/Part8.md#比卡鲁胺稳态血药浓度) {.secondaryList}
 
-[8.4.6. 单疗的抗雄激素作用 —— 图表](../parts/Part8.md#比卡鲁胺-——-单药治疗的抗雄激素作用) {.secondaryList}
+[8.4.6. 单疗的抗雄激素作用 —— 图表](../parts/Part8.md#比卡鲁胺-单药治疗的抗雄激素作用) {.secondaryList}
 
-[8.4.7. 比卡鲁胺 —— 血液检查项目](../parts/Part8.md#比卡鲁胺-——-血液检查项目) {.secondaryList}
+[8.4.7. 比卡鲁胺 —— 血液检查项目](../parts/Part8.md#比卡鲁胺-血液检查项目) {.secondaryList}
 
-[8.4.8. 比卡鲁胺 Q&A](../parts/Part8.md#比卡鲁胺问答-q-a) {.secondaryList}
+[8.4.8. 比卡鲁胺 Q&A](../parts/Part8.md#比卡鲁胺-q-a) {.secondaryList}
 
-[8.4.9. 比卡鲁胺 —— 留意事项、结论](../parts/Part8.md#比卡鲁胺-——-留意事项、结论) {.secondaryList}
+[8.4.9. 比卡鲁胺 —— 留意事项、结论](../parts/Part8.md#比卡鲁胺-留意事项、结论) {.secondaryList}
 
 [8.4.10. 有关比卡鲁胺的文献](../parts/Part8.md#关于比卡鲁胺作为跨性别女性-hrt-抗雄激素药物——已发布的所有文献-all-published-literature-on-bicalutamide) {.secondaryList}
 
