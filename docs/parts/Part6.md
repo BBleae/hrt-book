@@ -6,11 +6,11 @@
 
 生殖轴/系统在青春期女性中是未成熟的 ([Rosenfield, 2013](https://doi.org/10.1210/jc.2013-1770); [Gunn et al., 2018](https://doi.org/10.1016/j.jpag.2018.07.009); [Sun et al., 2019](https://doi.org/10.1210/jc.2018-00595); [Carlson & Shaw, 2019](https://doi.org/10.1016/j.jpag.2019.02.119)).在初潮后的 1–2 年，大多数的月经周期 是无排卵的 ([Döring, 1963-Table](https://imgur.com/a/AmsXobg); [Apter, 1980](https://doi.org/10.1111/j.1365-2265.1980.tb02125.x); [Lemarchand-Béraud et al., 1982](https://doi.org/10.1210/jcem-54-2-241); [Talbert et al., 1985](https://journals.lww.com/greenjournal/abstract/1985/10000/relationship_of_age_and_pubertal_development_to.21.aspx); [Venturoli et al., 1987](<https://doi.org/10.1016/S0015-0282(16)59294-2>); Rosenfield, 2013; Gunn et al., 2018; Carlson & Shaw, 2019).在非排卵期中，黄体不会从破裂后的卵泡形成，就不会有黄体酮的产生.只有大约一半的月经周期在第 5 分期时会排卵.此外，月经周 期在初潮后的一段时间内异常的长 (50 天，相比于成人时的 28 天)，所以月经频率在每个生殖年后会减少.就算发生了排卵，初潮后少女的黄体期所导致的 P4 水平也比成年期更低 ([McArthur, 1966](https://scholar.google.com/scholar?cluster=4939352678804332001) [Figure](https://i.imgur.com/QdobKvI.png); [Apter et al., 1987](<https://doi.org/10.1016/S0015-0282(16)49940-1>); [Venturoli et al., 1989](https://doi.org/10.1007/BF00934127); Sun et al., 2019).即使在女性青春后期，黄体酮的出现也是偶尔发 生且非常有限的.而这不只是在 Tanner 5 分期，在之后的数年也是如此.生殖轴需要在初潮后 6 年以上来完全成熟并持续地排卵.在这段时间里排卵周期的速 率逐渐增加直到 100%.只有到那时才会产生完全性黄体酮的接触.
 
-有些发现表明，黄体酮对于青春期乳房发育是必不可少的.但是其中一个例子是，患有完全性雄激素不敏感综合征 (简称 — [CAIS](https://en.wikipedia.org/wiki/Complete_androgen_insensitivity_syndrome)) 的女性.她们体内没有黄 体酮但是却拥有良好且丰满的乳房发育.如上所述的另一个例子是，一部分在初潮前就到达 Tanner 5 (即：完全乳房成长) 的女性，也是在没有黄体酮影响的 情况下拥有良好的乳房发育.因为缺乏研究资料，我们不清楚黄体酮是否会影响青春期乳房发育，但是我们知道的是黄体酮在这方面上不是非常有希望的. 从理论上来说，过早引入黄体酮可能会对最终的乳房发育结果会产生不利影响，但这还需要更多的研究来证实这种可能性，这也可能仅适用于高剂量的孕 激素使用 (详细请看—— “孕激素 —— 早期导入造成乳房发育不良的可能性” 篇).
+有些发现表明，黄体酮对于青春期乳房发育是必不可少的.但是其中一个例子是，患有完全性雄激素不敏感综合征 (简称 — [CAIS](https://en.wikipedia.org/wiki/Complete_androgen_insensitivity_syndrome)) 的女性.她们体内没有黄 体酮但是却拥有良好且丰满的乳房发育.如上所述的另一个例子是，一部分在初潮前就到达 Tanner 5 (即: 完全乳房成长) 的女性，也是在没有黄体酮影响的 情况下拥有良好的乳房发育.因为缺乏研究资料，我们不清楚黄体酮是否会影响青春期乳房发育，但是我们知道的是黄体酮在这方面上不是非常有希望的. 从理论上来说，过早引入黄体酮可能会对最终的乳房发育结果会产生不利影响，但这还需要更多的研究来证实这种可能性，这也可能仅适用于高剂量的孕 激素使用 (详细请看—— “孕激素 —— 早期导入造成乳房发育不良的可能性” 篇).
 
 ## 黄体酮 —— CAIS 女性与乳房发育
 
-说法 (主要源自于 Dr Will Powers) ：“黄体酮可助于乳房成长，使其长得更大” 或 “黄体酮不能长胸，但是可以把胸变完整、变圆，把乳房的形状从尖变圆 (从第 4 分期 成长至第 5 分期) ” 并没有证据能证实黄体酮是青春期乳房发育需要、或从 Tanner 4 发育至 Tanner 5 的必要激素.
+说法 (主要源自于 Dr Will Powers) : “黄体酮可助于乳房成长，使其长得更大” 或 “黄体酮不能长胸，但是可以把胸变完整、变圆，把乳房的形状从尖变圆 (从第 4 分期 成长至第 5 分期) ” 并没有证据能证实黄体酮是青春期乳房发育需要、或从 Tanner 4 发育至 Tanner 5 的必要激素.
 
 ### 关于黄体酮对于啮齿类动物乳腺形成的关系 ([Ismail et al., 2003](<https://doi.org/10.1016/S0039-128X(03)00133-8>))
 
@@ -46,11 +46,11 @@ CAIS 女性也不止是有第 3 分期的乳房发育，她们都能到达与普
 
 文献中曾提起过早期孕激素的影响可能会引起乳房发育不良.一项动物研究发现，对兔子使用高剂量黄体酮可导致乳腺发育不良问题，而这在较低剂量下并不会发生 ([Lyons & McGinty, 1941](https://doi.org/10.3181/00379727-48-13227)).目前对于这种现象是否会发生在人类中还不清楚.并且如果确实可能发生这现象，能产生这种现象的 P4 水平依然不明.这页面是有关该主题的文献集合.
 
-关于孕激素与人体乳房发育主题的所有已发表文献：[Zacharin (2000)](https://doi.org/10.1515/JPEM.2000.13.1.3); [Bondy et al. (2007)](https://doi.org/10.1210/jc.2006-1374); [Colvin, Devineni, & Ashraf (2014)](https://doi.org/10.1007/978-1-4614-8684-8_17); [Wierckx, Gooren, & T’Sjoen (2014)](https://doi.org/10.1111/jsm.12487); [Kaiser & Ho (2015)](https://www.sciencedirect.com/science/article/pii/B9780323297387000083); [Bauman, Novello, & Kreitzer (2016)](https://doi.org/10.1007/978-3-319-27225-2_5); [Gawlik et al. (2016)](https://doi.org/10.1016/j.jpag.2016.03.005); [Randolph (2018)](https://doi.org/10.1097/GRF.0000000000000396); [Donaldson et al. (2019)](https://doi.org/10.1159/000500050); [Heath & Wynne (2019)](https://books.google.com/books?id=-sCZDwAAQBAJ&pg=PA91); [Iwamoto et al. (2019)](https://doi.org/10.1177%2F2042018819871166); [Crowley & Pitteloud (2020)](https://www.uptodate.com/contents/approach-to-the-patient-with-delayed-puberty)
+关于孕激素与人体乳房发育主题的所有已发表文献: [Zacharin (2000)](https://doi.org/10.1515/JPEM.2000.13.1.3); [Bondy et al. (2007)](https://doi.org/10.1210/jc.2006-1374); [Colvin, Devineni, & Ashraf (2014)](https://doi.org/10.1007/978-1-4614-8684-8_17); [Wierckx, Gooren, & T’Sjoen (2014)](https://doi.org/10.1111/jsm.12487); [Kaiser & Ho (2015)](https://www.sciencedirect.com/science/article/pii/B9780323297387000083); [Bauman, Novello, & Kreitzer (2016)](https://doi.org/10.1007/978-3-319-27225-2_5); [Gawlik et al. (2016)](https://doi.org/10.1016/j.jpag.2016.03.005); [Randolph (2018)](https://doi.org/10.1097/GRF.0000000000000396); [Donaldson et al. (2019)](https://doi.org/10.1159/000500050); [Heath & Wynne (2019)](https://books.google.com/books?id=-sCZDwAAQBAJ&pg=PA91); [Iwamoto et al. (2019)](https://doi.org/10.1177%2F2042018819871166); [Crowley & Pitteloud (2020)](https://www.uptodate.com/contents/approach-to-the-patient-with-delayed-puberty)
 
 ### CPA 在跨性别女性 HRT 的使用
 
-关于孕激素对于乳房发育不良问题，CPA 是值得提起的.这是因为 CPA 作为抗雄激素药物之外同时也是个强效的孕激素，在用于跨性别 HRT 的典型剂量下足以导致非常强大的孕 激素作用.对跨性别女性使用雌激素+CPA 组合的研究一般上都显示了乳房发育不良问题 (Tanner 2–4, <A cup size) ([Kanhai et al., 1999](https://doi.org/10.1097/00006534-199908000-00040); [Sosa et al., 2003](https://doi.org/10.1385/JCD:6:3:297); [Sosa et al., 2004](https://doi.org/10.1016/j.ejim.2004.04.009); [Wierckx et al., 2014](https://doi.org/10.1111/jsm.12571); [Fisher et al., 2016](https://doi.org/10.1210/jc.2016-1276); [Tack et al., 2017](https://doi.org/10.1016/j.jsxm.2017.03.251); [de Blok et al., 2018](https://doi.org/10.1210/jc.2017-01927); [Reisman, Goldstein, & Safer, 2019](https://doi.org/10.4158/EP-2019-0183); [de Blok et al., 2020](https://doi.org/10.1210/clinem/dgaa841); [Meyer et al., 2020](https://doi.org/10.1530/EJE-19-0463)). 但是，这可能是跨性别女性本身的乳房发育不佳，而与 CPA 或孕激素的使用无关.目前，澳大利亚正在进行一项关于此问题的随机对照试验(RCTs)，该试验可能会提供更多关于此 问题的答案 ([ANZCTR](https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=379339)).
+关于孕激素对于乳房发育不良问题，CPA 是值得提起的.这是因为 CPA 作为抗雄激素药物之外同时也是个强效的孕激素，在用于跨性别 HRT 的典型剂量下足以导致非常强大的孕 激素作用.对跨性别女性使用雌激素+CPA 组合的研究一般上都显示了乳房发育不良问题 (Tanner 2–4, < A cup size) ([Kanhai et al., 1999](https://doi.org/10.1097/00006534-199908000-00040); [Sosa et al., 2003](https://doi.org/10.1385/JCD:6:3:297); [Sosa et al., 2004](https://doi.org/10.1016/j.ejim.2004.04.009); [Wierckx et al., 2014](https://doi.org/10.1111/jsm.12571); [Fisher et al., 2016](https://doi.org/10.1210/jc.2016-1276); [Tack et al., 2017](https://doi.org/10.1016/j.jsxm.2017.03.251); [de Blok et al., 2018](https://doi.org/10.1210/jc.2017-01927); [Reisman, Goldstein, & Safer, 2019](https://doi.org/10.4158/EP-2019-0183); [de Blok et al., 2020](https://doi.org/10.1210/clinem/dgaa841); [Meyer et al., 2020](https://doi.org/10.1530/EJE-19-0463)). 但是，这可能是跨性别女性本身的乳房发育不佳，而与 CPA 或孕激素的使用无关.目前，澳大利亚正在进行一项关于此问题的随机对照试验(RCTs)，该试验可能会提供更多关于此 问题的答案 ([ANZCTR](https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=379339)).
 
 ### 关于治疗乳房肥大症(Macromastia)的孕激素使用
 
@@ -64,9 +64,9 @@ CAIS 女性也不止是有第 3 分期的乳房发育，她们都能到达与普
 
 这篇会提到的可能性是会令各位跨性别女性非常沮丧的，但有必要提起的.
 
-跨性别女性一般上的乳房发育比顺性别女性欠佳很多 ([Wierckx, Gooren, & T’Sjoen, 2014](https://doi.org/10.1111/jsm.12487); [de Blok et al., 2018](https://doi.org/10.1210/jc.2017-01927); [Reisman, Goldstein, & Safer, 2019](https://doi.org/10.4158/EP-2019-0183)).这可 能是因为乳腺在产前 (胎儿时期) 的时候暴露在高量的雄激素下，导致乳腺内拥有低数量的雌激素受体(ERs)，从而造成对雌激素的反应性降低，最终削弱了乳 房发育能力，这可能是造成乳房发育不良情况的多个因素之一.非常不幸的是，这很有可能是不可逆，治疗不了的.虽然目前已知产前激素暴露是会对老鼠的乳 腺造成性别分化，而且在某些临床发现中也表明了这种情况在人类的可能性，但是还未确定在人类上是否也确实如此.另外，有许多数据也可以被认为是反对此 可能性的 (如：男性拥有乳头，男女新生儿拥有非常相似的乳腺构造) .也可能是其他因素 (如：激素治疗方法) 所导致跨性别女性的乳房发育不良.无论如何，产前 雄激素暴露作为一种可能性是非常合理的，而且仍然可以证明的.目前需要更多研究来证实此现象是否会发生在人类上.
+跨性别女性一般上的乳房发育比顺性别女性欠佳很多 ([Wierckx, Gooren, & T’Sjoen, 2014](https://doi.org/10.1111/jsm.12487); [de Blok et al., 2018](https://doi.org/10.1210/jc.2017-01927); [Reisman, Goldstein, & Safer, 2019](https://doi.org/10.4158/EP-2019-0183)).这可 能是因为乳腺在产前 (胎儿时期) 的时候暴露在高量的雄激素下，导致乳腺内拥有低数量的雌激素受体(ERs)，从而造成对雌激素的反应性降低，最终削弱了乳 房发育能力，这可能是造成乳房发育不良情况的多个因素之一.非常不幸的是，这很有可能是不可逆，治疗不了的.虽然目前已知产前激素暴露是会对老鼠的乳 腺造成性别分化，而且在某些临床发现中也表明了这种情况在人类的可能性，但是还未确定在人类上是否也确实如此.另外，有许多数据也可以被认为是反对此 可能性的 (如: 男性拥有乳头，男女新生儿拥有非常相似的乳腺构造) .也可能是其他因素 (如: 激素治疗方法) 所导致跨性别女性的乳房发育不良.无论如何，产前 雄激素暴露作为一种可能性是非常合理的，而且仍然可以证明的.目前需要更多研究来证实此现象是否会发生在人类上.
 
-支持此可能性的临床发现的病情一列：
+支持此可能性的临床发现的病情一列:
 
 - 3β-羟类固醇脱氢酶缺陷 所导致的 CAH ([Congenital adrenal hyperplasia (CAH) due to 3β-HSD2 deficiency](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia_due_to_3%CE%B2-hydroxysteroid_dehydrogenase_deficiency))
 - 完全性雄激素不敏感综合征 ([Complete androgen insensitivity syndrome / CAIS](https://en.wikipedia.org/wiki/Complete_androgen_insensitivity_syndrome))
@@ -77,7 +77,7 @@ CAIS 女性也不止是有第 3 分期的乳房发育，她们都能到达与普
 
 ## 高剂量雌激素与乳房发育的关系
 
-“胸部的疼痛感就代表着正在成长中的胸部”
+>“胸部的疼痛感就代表着正在成长中的胸部”
 
 这说法被广泛流传在跨性别界内，但这不正确.在女性中使用的高剂量雌激素治疗导致的高雌二醇水平，150 pg/mL 以上的 E2 ([Sitruk-Ware et al., 1984](https://books.google.com/books?id=P6LIAwAAQBAJ&pg=PA132))，是与乳房疼痛感有关的.暂时性或依赖于雌激素的暴露下造成的乳房增大也会因体液潴留导 致，而这现象会因停药而逆转，并不会导致永久乳房增大或发育.乳房疼痛感一般上都会因为高雌二醇水平而发生，而不一定是因为乳房正在发育.
 

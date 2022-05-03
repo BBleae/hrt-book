@@ -3,7 +3,7 @@ sidebar: false
 ---
 # 链接
 
-QQ 群： 1075287432
+QQ 群: 1075287432
 
 [Telegram: shizu’s HRT 群](https://t.me/joinchat/7ummDEnUDSUwZjM1)
 

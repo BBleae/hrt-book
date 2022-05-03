@@ -17,16 +17,16 @@
 ### 合成雌激素 (Non-bioidentical estrogens)
 
 - 炔雌醇 (Ethinylestradiol / EE)
-  - 避孕药等药物 (如：优思明、妈富隆、英 达 35)
+  - 避孕药等药物 (如: 优思明、妈富隆、英 达 35)
 - 结合雌激素 (Conjugated estrogens / CEEs)
   - 绝经期激素治疗药物
 - 己烯雌酚 (Diethylstilbestrol / DES)
 
-人工合成雌激素，具有肝脏代谢抗性，在对雌激素调节的肝脏合成有不成比例的影响.而这结果 导致它们拥有更大的风险如：血栓与心血管疾病.同时因为风险原因以及在跨性别女性中需要 使用较高剂量的雌激素来达到有效地睾酮抑制，合成雌激素绝不应该使用于跨性别 HRT 中.
+人工合成雌激素，具有肝脏代谢抗性，在对雌激素调节的肝脏合成有不成比例的影响.而这结果 导致它们拥有更大的风险如: 血栓与心血管疾病.同时因为风险原因以及在跨性别女性中需要 使用较高剂量的雌激素来达到有效地睾酮抑制，合成雌激素绝不应该使用于跨性别 HRT 中.
 
 雌激素可以高剂量单独使用来抑制睾酮至女性范围水平.而低剂量的雌激素可以与抗雄激素或孕激素联合使用来达到比较接近生理水平的 E2.这将会导致雌激素部分 地抑制睾酮，并通过抗雄激素药物或孕激素来进一步地抑制或拮抗剩余的睾酮.但是，在 HRT 导入抗雄激素药物或孕激素药物也将增加这些药物带来的副作用与风险.
 
-低水平的雌激素能带来的女性化作用在雄激素存在的影响下是有限的.高剂量的雌激素，除了能带来更强力的睾酮抑制能力之外，并不会带来更强的女性化作用.事实 上，有迹象表明高剂量雌激素可能会导致更差的乳房发育.高剂量雌激素的使用包括雌二醇，也将会提高血栓与心血管疾病的风险 (雌激素——血栓风险 篇).所以使用 生理水平剂量的雌激素可能较佳.但同时，高剂量雌激素在睾酮抑制方面上非常有用，而且非口服雌二醇给药途径所带来的风险较低.这也特别限于特定高风险人群如： 高龄、缺乏活动、肥胖症、伴随孕激素药物使用、吸烟、手术、易栓症等等.在健康年轻的人身上，高剂量非口服雌二醇的使用，在一定范围中，是可以接受的.
+低水平的雌激素能带来的女性化作用在雄激素存在的影响下是有限的.高剂量的雌激素，除了能带来更强力的睾酮抑制能力之外，并不会带来更强的女性化作用.事实 上，有迹象表明高剂量雌激素可能会导致更差的乳房发育.高剂量雌激素的使用包括雌二醇，也将会提高血栓与心血管疾病的风险 (雌激素——血栓风险 篇).所以使用 生理水平剂量的雌激素可能较佳.但同时，高剂量雌激素在睾酮抑制方面上非常有用，而且非口服雌二醇给药途径所带来的风险较低.这也特别限于特定高风险人群如: 高龄、缺乏活动、肥胖症、伴随孕激素药物使用、吸烟、手术、易栓症等等.在健康年轻的人身上，高剂量非口服雌二醇的使用，在一定范围中，是可以接受的.
 
 ## 雌二醇 —— 给药途径
 
@@ -49,82 +49,82 @@
 ## 雌二醇 —— 剂量
 
 <table>
-	<thead>
-		<tr>
-			<td>药物</td>
-			<td>给药途径</td>
-			<td>形式</td>
-			<td>剂量</td>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td rowspan="5">雌二醇</td>
-			<td>口服</td>
-			<td>片剂</td>
-			<td>2–8 mg/天</td>
-		</tr>
-		<tr>
-			<td>含服/口颊给药</td>
-			<td>片剂</td>
-			<td>0.5–2 mg (1–4 次/天)</td>
-		</tr>
-		<tr>
-			<td>透皮给药</td>
-			<td>贴剂</td>
-			<td>50–300 μg/天</td>
-		</tr>
-		<tr>
-			<td>透皮给药</td>
-			<td>凝胶</td>
-			<td>2–6 mg/天</td>
-		</tr>
-		<tr>
-			<td>皮下植入</td>
-			<td>Pellet</td>
-			<td>25–150 mg/6 个月</td>
-		</tr>
-		<tr>
-			<td rowspan="3">戊酸雌二醇 (EV)</td>
-			<td>口服</td>
-			<td>片剂</td>
-			<td>2–10 mg/天</td>
-		</tr>
-		<tr>
-			<td>含服/颊给药</td>
-			<td>片剂</td>
-			<td>0.5–2 mg (1–4 次/天)</td>
-		</tr>
-		<tr>
-			<td>肌注/皮下注射</td>
-			<td>油溶液</td>
-			<td>2–6 mg/周； 1.5–4 mg/5 天； 或 <span class="green">5–7 mg/5天*</span></td>
-		</tr>
-		<tr>
-			<td>庚酸雌二醇 (EEn)</td>
-			<td>肌注/皮下注射</td>
-			<td>油溶液</td>
-			<td>4–12 mg/两周；<span class="green">11 mg/周\*</span>；或 15mg/10 天</td>
-		</tr>
-		<tr>
-			<td>环戊丙酸雌二醇 (EC)</td>
-			<td>肌注/皮下注射</td>
-			<td>油溶液</td>
-			<td>2–6 mg/周</td>
-		</tr>
-		<tr>
-			<td>苯甲酸雌二醇 (EB)</td>
-			<td>肌注/皮下注射</td>
-			<td>油溶液</td>
-			<td>1–3 mg 两次/周</td>
-		</tr>
-		<tr>
-			<td>聚磷酸雌二醇 (PEP)</td>
-			<td>肌注</td>
-			<td>水溶液</td>
-			<td><span class="yellow">40–160 mg/月**</span></td>
-		</tr>
-	</tbody>
+  <thead>
+    <tr>
+      <td>药物</td>
+      <td>给药途径</td>
+      <td>形式</td>
+      <td>剂量</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">雌二醇</td>
+      <td>口服</td>
+      <td>片剂</td>
+      <td>2–8 mg/天</td>
+    </tr>
+    <tr>
+      <td>含服/口颊给药</td>
+      <td>片剂</td>
+      <td>0.5–2 mg (1–4 次/天)</td>
+    </tr>
+    <tr>
+      <td>透皮给药</td>
+      <td>贴剂</td>
+      <td>50–300 μg/天</td>
+    </tr>
+    <tr>
+      <td>透皮给药</td>
+      <td>凝胶</td>
+      <td>2–6 mg/天</td>
+    </tr>
+    <tr>
+      <td>皮下植入</td>
+      <td>Pellet</td>
+      <td>25–150 mg/6 个月</td>
+    </tr>
+    <tr>
+      <td rowspan="3">戊酸雌二醇 (EV)</td>
+      <td>口服</td>
+      <td>片剂</td>
+      <td>2–10 mg/天</td>
+    </tr>
+    <tr>
+      <td>含服/颊给药</td>
+      <td>片剂</td>
+      <td>0.5–2 mg (1–4 次/天)</td>
+    </tr>
+    <tr>
+      <td>肌注/皮下注射</td>
+      <td>油溶液</td>
+      <td>2–6 mg/周； 1.5–4 mg/5 天； 或 <span class="green">5–7 mg/5天*</span></td>
+    </tr>
+    <tr>
+      <td>庚酸雌二醇 (EEn)</td>
+      <td>肌注/皮下注射</td>
+      <td>油溶液</td>
+      <td>4–12 mg/两周；<span class="green">11 mg/周\*</span>；或 15mg/10 天</td>
+    </tr>
+    <tr>
+      <td>环戊丙酸雌二醇 (EC)</td>
+      <td>肌注/皮下注射</td>
+      <td>油溶液</td>
+      <td>2–6 mg/周</td>
+    </tr>
+    <tr>
+      <td>苯甲酸雌二醇 (EB)</td>
+      <td>肌注/皮下注射</td>
+      <td>油溶液</td>
+      <td>1–3 mg 两次/周</td>
+    </tr>
+    <tr>
+      <td>聚磷酸雌二醇 (PEP)</td>
+      <td>肌注</td>
+      <td>水溶液</td>
+      <td><span class="yellow">40–160 mg/月**</span></td>
+    </tr>
+  </tbody>
 </table>
 
 <span class="green">\*单药治疗</span>
@@ -147,17 +147,17 @@
 
 ## 雌二醇酯注射 —— 水平 (图表)
 
-![](../imgs/Idealized_curves_of_estradiol_levels_after_injection_of_different_estradiol_esters_in_women.png)
+![Idealized_curves_of_estradiol_levels_after_injection_of_different_estradiol_esters_in_women](../imgs/Idealized_curves_of_estradiol_levels_after_injection_of_different_estradiol_esters_in_women.png)
 
-Graph：Simplified curves of estradiol levels after intramuscular injection of different estradiol esters in oil solution in women. ([Garza-Flores, 1994](https://www.google.com/url?q=https://doi.org/10.1016%252F0010-7824%252894%252990032-9&sa=D&source=editors&ust=1650986830854456&usg=AOvVaw1Bg5kYMpCWOXGC2k2JO0to))
+Graph: Simplified curves of estradiol levels after intramuscular injection of different estradiol esters in oil solution in women. ([Garza-Flores, 1994](https://www.google.com/url?q=https://doi.org/10.1016%252F0010-7824%252894%252990032-9&sa=D&source=editors&ust=1650986830854456&usg=AOvVaw1Bg5kYMpCWOXGC2k2JO0to))
 
-<span style="color: #dd2a91;">Estradiol benzoate (EB)</span>：苯甲酸雌二醇
+<span style="color: #dd2a91;">Estradiol benzoate (EB)</span>: 苯甲酸雌二醇
 
-<span style="color: #b14dec;">Estradiol valerate (EV)</span>：戊酸雌二醇
+<span style="color: #b14dec;">Estradiol valerate (EV)</span>: 戊酸雌二醇
 
-<span style="color: #7675ed;">Estradiol cypionate (EC)</span>：环戊丙酸雌二醇
+<span style="color: #7675ed;">Estradiol cypionate (EC)</span>: 环戊丙酸雌二醇
 
-<span style="color: #2e8ebf;">Estradiol enanthate (EEn)</span>：庚酸雌二醇
+<span style="color: #2e8ebf;">Estradiol enanthate (EEn)</span>: 庚酸雌二醇
 
 *此图表的曲线是拟合的且检测间隔较长，所以实际情况可能会与其有较大偏差
 
@@ -180,18 +180,17 @@ B. 含服雌二醇拥有比口服高~2–5 倍 的生物利用度.
 
 C. 如果用于生殖器上，可以使用更 低剂量的透皮雌二醇.
 
-D. 肌注或皮下注射：一周的雌二醇酯 总剂量(EV/EEn/EC/EB).这些酯之 间的分子量差异非常小所以可忽 略不计 ([Wiki-Table](https://en.wikipedia.org/wiki/Template:Structural_properties_of_selected_estradiol_esters)).最佳注射间隔 取决于所用的雌二醇酯的半衰期.
+D. 肌注或皮下注射: 一周的雌二醇酯 总剂量(EV/EEn/EC/EB).这些酯之 间的分子量差异非常小所以可忽 略不计 ([Wiki-Table](https://en.wikipedia.org/wiki/Template:Structural_properties_of_selected_estradiol_esters)).最佳注射间隔 取决于所用的雌二醇酯的半衰期.
 
 ★ 这些剂量不是绝对性的，所以 只应该作为一个非常粗略的 参考.这些数据基于不同研究 的广义模型，且具有非常大的 个体差异.
 
 ★ 这些剂量只是一般估计的等 效剂量，不是典型或推荐的临 床剂量.
 
-请注意：雌二醇剂量能达到的雌二醇水平存在着非常大的个体差异 (剂量导致的水平因人而异) .同时也该注意的是，某些给药途径存在着较大的 时间依赖性的水平波动，主要是含服/口颊给药、肌注/皮下注射 ([Wiki-Graphs](https://en.wikipedia.org/wiki/Template:Hormone_levels_with_sublingual_estradiol); [Wiki-Graphs](https://commons.wikimedia.org/wiki/File:Estradiol_levels_during_therapy_with_0.25_mg_buccal_estradiol_in_postmenopausal_women.png); [Wiki-Graphs](https://en.wikipedia.org/wiki/Template:Hormone_levels_with_estradiol_esters_by_intramuscular_injection)).
+请注意: 雌二醇剂量能达到的雌二醇水平存在着非常大的个体差异 (剂量导致的水平因人而异) .同时也该注意的是，某些给药途径存在着较大的 时间依赖性的水平波动，主要是含服/口颊给药、肌注/皮下注射 ([Wiki-Graphs](https://en.wikipedia.org/wiki/Template:Hormone_levels_with_sublingual_estradiol); [Wiki-Graphs](https://commons.wikimedia.org/wiki/File:Estradiol_levels_during_therapy_with_0.25_mg_buccal_estradiol_in_postmenopausal_women.png); [Wiki-Graphs](https://en.wikipedia.org/wiki/Template:Hormone_levels_with_estradiol_esters_by_intramuscular_injection)).
 
 对于还没经历或不打算进行性腺切除手术的跨性别女性，可以使用较高剂量的雌二醇来达到强力的睾酮抑制.平均上，高剂量雌二醇的使用会抑 制 90%的睾酮水平 (至约 50 ng/dL) .所以“高剂量”与“超高剂量”的使用通常用于雌二醇单疗 (不使用抗雄激素药物，而只是使用雌二醇).
 
 Sources: [Kuhl (2005); Bruni, V., & Pampaloni, F. (2019)](https://doi.org/10.1007/978-3-030-14358-9_10)
-
 
 ## 雌二醇 —— 舌下含服
 
@@ -203,11 +202,11 @@ Sources: [Kuhl (2005); Bruni, V., & Pampaloni, F. (2019)](https://doi.org/10.100
 
 雌酮是种非常低效力的雌激素.同时雌酮在硫酸雌酮(E1S)形态时除了拥有比雌二醇较长的半衰期以及可以转化成雌二醇之外，它在体内真正的作用还未被完全了解.
 
-![](../imgs/Estradiol_Dose_Comparison.jpg)
+![Estradiol_Dose_Comparison](../imgs/Estradiol_Dose_Comparison.jpg)
 
 Graph A: 含服 6 mg 剂量一次服用 vs 含服 6 mg 剂量分次服用(2 mg x3 次)
 
-**剂量服用**：含服雌二醇时最理想的方式是分次服用.这是因为含服时会导致庞大的 峰值与低谷，并不像口服雌二醇一样能保持较稳定的水平.含服导致的雌二醇水平在 片剂完全融化后 5 分钟内开始迅速上升，30–60 分钟后达峰值浓度，可达的峰值浓度 水平是口服的 10 倍高.这雌二醇水平在 4 小时后开始急速下降，而含服雌二醇的半衰 期为~8 小时起.
+**剂量服用**: 含服雌二醇时最理想的方式是分次服用.这是因为含服时会导致庞大的 峰值与低谷，并不像口服雌二醇一样能保持较稳定的水平.含服导致的雌二醇水平在 片剂完全融化后 5 分钟内开始迅速上升，30–60 分钟后达峰值浓度，可达的峰值浓度 水平是口服的 10 倍高.这雌二醇水平在 4 小时后开始急速下降，而含服雌二醇的半衰 期为~8 小时起.
 
 基于 (Price, 1997) 这项研究，我们可以参考这图表 (Graph A) 来评估含服一次性服 用与分次服用的差别.
 
@@ -217,7 +216,7 @@ Sources: [Kuhl (2005)](https://www.google.com/url?q=https://doi.org/10.1080/1369
 
 ## 口服 vs 含服雌二醇 —— [Price et al. (1997)](https://doi.org/10.1016/S0029-7844(96)00513-3)
 
-![](../imgs/Price_Estradiol.jpg)
+![Price_Estradiol](../imgs/Price_Estradiol.jpg)
 
 SL = 含服
 
@@ -231,16 +230,16 @@ PO = 口服
 
 有时候听见一些乱传闻的跨性别女性说戊酸雌二醇(EV)片不能含服，这不正确.这篇将格外为困惑的姐妹们说明.
 
-右图为分别 Serhal & Craft 的研究.此研究使用了戊酸雌二醇(EV)片——补佳乐(Progynova)，绝经前女 性含服 3–4 次/天 剂量. 
+右图为分别 Serhal & Craft 的研究.此研究使用了戊酸雌二醇(EV)片——补佳乐(Progynova)，绝经前女 性含服 3–4 次/天 剂量.
 
-- [Serhal, P., & Craft, I. (1989). Oocyte donation in 61 patients. The Lancet, 333(8648), 1185–1187.](https://doi.org/10.1016/S0140-6736(89)92762-1) 
+- [Serhal, P., & Craft, I. (1989). Oocyte donation in 61 patients. The Lancet, 333(8648), 1185–1187.](https://doi.org/10.1016/S0140-6736(89)92762-1)
 - [Serhal, P. (1990). Oocyte donation and surrogacy. British Medical Bulletin, 46(3), 796–812.](https://doi.org/10.1093/oxfordjournals.bmb.a072432)
 
-![](../imgs/sublingual-ev.png)
+![sublingual-ev](../imgs/sublingual-ev.png)
 
 这研究显示了 EV (补佳乐) 被良好地吸收并且与含服雌二醇一样达到了相似的雌二醇水平.
 
-另外值得注意的文献摘录：[Lim et al. (2019)](https://doi.org/10.5468/ogs.2019.62.1.46)
+另外值得注意的文献摘录: [Lim et al. (2019)](https://doi.org/10.5468/ogs.2019.62.1.46)
 
 全部口服雌二醇片都是经过微粉化过的，而 Serhal & Craft 研究中使用的口服戊酸雌二醇(EV)也是如 此.微粉化(micronization)被认为是对于舌下含服途径的吸收上非常重要的处理 ([Sayeed & Ashraf, 2014](https://www.pharmtech.com/view/considerations-developing-sublingual-tablets-overview) ).
 
@@ -275,4 +274,3 @@ PO = 口服
 同时，没有研究表明口服雌二醇与透皮雌二醇在女性化效果中有任何差异 .反而现有的研究 显示乳房发育、脂肪分配等女性化效果与雌二醇摄取途径没有任何关系.因此，透皮雌二醇 在生理性剂量上可比口服雌二醇在长期使用中更安全. Additional: Cirrincione et al. (2021)
 
 Additional: [Cirrincione et al. (2021)](https://doi.org/10.1089/lgbt.2020.0249)
-
