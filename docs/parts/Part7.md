@@ -39,16 +39,16 @@ Brand name: “Proscar”；”Avodart”
 
 ## DHT 的合成途径
 
-以下会非常粗略的讲解一下 DHT 合成问题，以后如果有机会可能会对这 DHT 有关主题做个完整且深入的资料...
+以下会非常粗略的讲解一下DHT合成问题。
 
-5α-还原酶抑制剂(5α-RIs)虽然有时候被称为 DHT 抑制剂，但事实上并不是.在大多数情况下，由于 DHT 是睾酮的代谢产物 (睾酮 -> DHT 合成 )，而这个合成过程是 5α 还原酶导致的，使用 5α-RI 确实是可以抑制此合成途径并降低 DHT 浓度.但是在非常罕见的情况下，DHT 可以不通过此途径，而是从其他两个已知的合成途径产生.如 果是从其他两个途径合成的 DHT，非那雄胺或度他雄胺这种 5α-RIs 是对 DHT 抑制没效的.如果是肾上腺 DHEA-S 导致的 DHT 合成，这应该是目前最难治疗的情况，目前 据作者我所知只能使用 —— ([Abiraterone acetate](https://en.wikipedia.org/wiki/Abiraterone_acetate)).但这种 DHT 异常问题在跨性别女性中可能是非常罕见的，估计为少于 4%.
+一般时候我们都会提到关于睾酮 ➞ DHT 这一个通常途径，但是在少数患者中会出现除了这个通常途径以外的DHT合成途径。在某些正常hrt的情况下（指睾酮水平被抑制时），如果有同时服用外源黄体酮的话，DHT能借由下图的后门途径合成。
 
 ![Frontdoor-pink-primary-backdoor-green-and-secondary-backdoor-blue-pathways-to-5-a](../imgs/Frontdoor-pink-primary-backdoor-green-and-secondary-backdoor-blue-pathways-to-5-a.png)
 
 DHT 的 3 个来源途径为:
 
 - 普通途径 (5α-还原酶) 睾酮 (T) → DHT {.pink}
-- 前门途径 DHEA-S → DHT {.blue}
+- 前门途径 DHEA → DHT {.blue}
 - 后门途径 黄体酮 (P) → DHT {.green}
 
 ## DHT 异常 —— 例子
