@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.23.0",
-    "@vuepress/client": "2.0.0-alpha.1",
+    "@vuepress/client": "2.0.0-beta.43",
     "@vuepress/plugin-register-components": "^2.0.0-beta.43",
     "eslint": "^8.14.0",
     "less": "^4.1.2",
