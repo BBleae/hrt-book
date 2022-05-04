@@ -47,9 +47,9 @@ Brand name: “Proscar”；”Avodart”
 
 DHT 的 3 个来源途径为:
 
-- <span class="pink">普通途径 (5α-还原酶) 睾酮 (T) → DHT</span>
-- <span class="blue">前门途径 DHEA-S → DHT</span>
-- <span class="green">后门途径 黄体酮 (P) → DHT</span>
+- 普通途径 (5α-还原酶) 睾酮 (T) → DHT {.pink}
+- 前门途径 DHEA-S → DHT {.blue}
+- 后门途径 黄体酮 (P) → DHT {.green}
 
 ## DHT 异常 —— 例子
 
