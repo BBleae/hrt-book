@@ -4,20 +4,24 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.23.0",
+    "@vuepress/client": "2.0.0-beta.43",
     "@vuepress/plugin-register-components": "^2.0.0-beta.43",
     "eslint": "^8.14.0",
     "less": "^4.1.2",
+    "markdown-it": "^13.0.1",
     "markdown-it-attrs": "^4.1.3",
     "markdown-it-bracketed-spans": "^1.0.1",
     "markdown-it-imsize": "^2.0.1",
     "markdown-it-ins": "^3.0.1",
     "markdown-it-multimd-table": "^4.1.3",
     "typescript": "^4.6.4",
+    "vue": "^3.2.33",
     "vuepress": "^2.0.0-beta.43"
   }
 }
