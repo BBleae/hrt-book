@@ -1,6 +1,6 @@
 # Part 3 孕激素 (Progestogens) 篇
 
-## 孕激素 —— 介绍
+## 孕激素: 介绍
 
 孕激素 (Progestogens) 分别包括两种——黄体酮 (Progesterone)、黄体制剂 (Progestins).黄体制剂是一种通过黄体酮(P4)与睾酮的结构改造所衍生的合成孕激素.一些主要的黄体制剂包括: 醋酸甲羟孕酮(MPA)、炔诺酮(NET)、地屈孕酮(Dydrogesterone)、以及屈螺酮(Drospirenone).存在着非常多的黄体制剂，它们在结构上不同且拥有不同的特性 ([Wiki-Table](https://en.wikipedia.org/wiki/Template:Progestogens_marketed_for_clinical_or_veterinary_use)).黄体制剂被研发是因为它们在体内更适合用作药物.虽然从理论上任何孕激素都可以被使用，但只有少数临床上的孕激素被使用在跨性别 HRT 中.
 
@@ -14,7 +14,7 @@
 
 由于它们对女性化和乳房发育缺乏影响力，并且能导致如健康风险等不利影响，孕激素目前不被常规使用在跨性别 HRT 中.但是一个例外为——醋酸环丙孕酮(CPA)， 一种被广泛使用在跨性别 HRT 中的抗雄激素药物，也同时在典型的治疗剂量下是个非常强力的孕激素.虽然孕激素有许多风险，但女性体内也有黄体酮(P4)且决定性 风险在健康个体中是非常低的.乳癌也是需要数年来形成的.而且孕激素所带来的的睾酮抑制在跨性别女性中非常有用.短期的孕激素使用可以在进行睾丸切除术前作 为睾酮抑制的一种方法.
 
-## 孕激素 —— 给药途径
+## 孕激素: 给药途径
 
 黄体酮可以用于口服、直肠给药途径、或肌注和皮下注射.而黄体制剂(Progestins)通常用于口服，但是 某些黄体制剂也以注射液形式存在 (如: “日孕”OHPC).
 
@@ -28,13 +28,13 @@
 
 ### 直肠给药
 
-黄体酮可以作为肛门栓剂使用.微粉化口服黄体酮胶囊可以通过直肠给药途径来达到比口服途径更高的 P4 水平.虽然不方便，但直肠给药途径可能是 跨性别女性能服用黄体酮的最佳给药途径. (详细看——黄体酮 —— 非口服给药途径)
+黄体酮可以作为肛门栓剂使用.微粉化口服黄体酮胶囊可以通过直肠给药途径来达到比口服途径更高的 P4 水平.虽然不方便，但直肠给药途径可能是 跨性别女性能服用黄体酮的最佳给药途径. (详细看——黄体酮: 非口服给药途径)
 
 ### 注射
 
 黄体酮注射分别为肌注和皮下注射两种形式存在.但是黄体酮注射的持续时间相对较短，必须每 1~3 天注射一次.这使得大多数的人使用起来不方便.与雌二 醇不同，在化学上不可能有比黄体酮本身更长持续时间的黄体酮酯.另一方面，可注射的黄体制剂的持续时间可长达数周~数月.
 
-## 孕激素 —— 推荐剂量
+## 孕激素: 推荐剂量
 
 - 黄体酮 (Progesterone)
 
@@ -55,7 +55,7 @@
 
 与雌二醇一样，黄体酮所达到的 P4 水平存在着很大的个体差异.但是黄体制剂的情况则相反，个体之间水平差异相对较小. 除去性腺后可以降低或调整孕激素的剂量来使其接近正常女性生理水平，或者可以完全停止使用孕激素.
 
-## 口服黄体酮 —— 低水平、极弱的孕激素作用
+## 口服黄体酮: 低水平、极弱的孕激素作用
 
 微粉化口服黄体酮(oral micronized progesterone)，一种用于口服途径的黄体酮药物.这是一种明胶胶囊，里面含有微粉化黄体酮晶体的油悬浮剂.口服途径的黄体酮会首先通过肠道与 肝脏，导致它的生物利用度非常低(≤10%).由于首过效应的原因，大量的黄体酮会在抵达血液前转化为别孕烷醇酮(allopregnanolone)、孕烯醇酮(pregnanolone)等神经甾体代谢物.这是 为什么口服黄体酮会导致与非口服途径没有的酒精类似副作用 (如: 镇静作用) .尽管口服途径的生物利用度非常低，但根据以前的报道，使用 IAs 分析法测量的结果，典型临床剂量 100–300 mg/天仍可产生与月经后期——黄体期同等的 P4 水平 ([Wiki-Graph](https://commons.wikimedia.org/wiki/File:Progesterone_levels_across_the_normal_menstrual_cycle_in_women.png)).
 
@@ -67,21 +67,21 @@
 
 ![Progesterone_levels_following_a_single_dose_of_oral_or_vaginal_micronized_progesterone_determined_with_RIA_or_LC–MS_in_postmenopausal_women](../imgs/Progesterone_levels_following_a_single_dose_of_oral_or_vaginal_micronized_progesterone_determined_with_RIA_or_LC–MS_in_postmenopausal_women.png)
 
-图 1 : 服用口服与阴道黄体酮后，使用 IA 和 LC-MS 检测到绝经后女性的 P4 水 平 —— 口服黄体酮所达最高水平不超过 2 ng/mL ([Levine & Watson, 2000](<https://doi.org/10.1016/S0015-0282(99)00553-1>); Kuhl & Schneider, 2013)
+图 1 : 服用口服与阴道黄体酮后，使用 IA 和 LC-MS 检测到绝经后女性的 P4 水 平: 口服黄体酮所达最高水平不超过 2 ng/mL ([Levine & Watson, 2000](<https://doi.org/10.1016/S0015-0282(99)00553-1>); Kuhl & Schneider, 2013)
 
-## 口服黄体酮 —— 作用、影响
+## 口服黄体酮: 作用、影响
 
 数十年来，人们对口服黄体酮的临床孕激素作用所产生的各种令人困惑的发现，都可以用现在更先进可靠的分析方式、最新的数据轻松解明. 口服黄体酮在临床医学中主要用于在更年期女性中保护子宫内膜被雌激素无抵抗的刺激 ([Wiki](<https://en.wikipedia.org/wiki/Progesterone_(medication)#Menopause>)).即使口服途径产生的 P4 水平较低，它也能够可 靠地预防由雌激素介导的子宫内膜增生 ([Wiki](<https://en.wikipedia.org/wiki/Progesterone_(medication)#Menopause>)).但是在一项大型观察性研究中，它却未能提供足够的保护以抵抗雌激素介导的子宫内膜癌风险 ([Davey, 2018](https://doi.org/10.1080/13697137.2018.1439915)).口服黄体酮也在产生完整的子宫内膜转化上失败 (黄体期 P4 水平的正常作用)，即使使用非常高的剂量.而注射与阴道内给药途径 却有效.由于这原因，口服黄体酮被认为不适用于辅助生殖上 ([de Ziegler et al., 2013](https://books.google.com/books?id=LUpDAAAAQBAJ&pg=PA117)).另外，口服黄体酮即使在高剂量中也无法抑制男性体内的睾酮 ([Trollan et al., 1993](https://doi.org/10.1159/000292636)).而相反的，黄体制剂(Progestins)、直肠途径黄体酮、以及黄体酮注射都在睾酮抑制作用上非常有效 ([Wiki](https://en.wikipedia.org/wiki/Pharmacodynamics_of_progesterone#Antigonadotropic_effects)).同样的，口服 黄体酮在更年期女性中也没有明显的抗促性腺激素作用 ([Holst, 1983](https://doi.org/10.3109/00016348309155363); [Holst et al., 1983](<https://doi.org/10.1016/0378-5122(83)90015-4>); [Ottosson, 1984](https://doi.org/10.3109/00016348409157016); [Maxson & Hargrove, 1985](<https://doi.org/10.1016/S0015-0282(16)48977-6>); [Saarikoski, Yliskosk, & Penttilä, 1990](<https://doi.org/10.1016/0378-5122(90)90086-L>)).
 
 与其他临床上使用过的孕激素不同，在更年期女性的雌激素治疗中短期(<5 年)添加口服黄体酮不会造成 VTE/血栓等风险或乳癌风险.但是，长期(≥5 年)在雌激素治疗中与口服黄体酮的组合与乳癌风险显着相关 ([Wiki-Table](https://en.wikipedia.org/wiki/Template:Worldwide_epidemiological_evidence_on_breast_cancer_risk_with_menopausal_hormone_therapy)).这与口服黄体酮对乳房增殖作用非常弱这点一致，因此需要更 长的暴露下才能体现出可量化的乳癌风险增加 (Kuhl & Schneider, 2013; Davey, 2018).这也与临床前研究一致，该研究清楚表明了黄体酮与孕激 素受体激活的致癌作用 (Kuhl & Schneider, 2013; [Trabert et al., 2020](https://doi.org/10.1210/endrev/bnz001)).先前关于口服黄体酮的子宫内膜作用、睾酮与促性腺激素的抑制、血栓风 险、乳癌风险的临床研究与几乎所有临床上使用的黄体制剂(Progestins)相反.这些以前让人非常困惑的黄体酮与黄体制剂的差异很容易由我们 现在所知道的口服黄体酮只能达到非常低的 P4 水平来解释.
 
-## 口服黄体酮 —— 生物半衰期、持续时间、利用度
+## 口服黄体酮: 生物半衰期、持续时间、利用度
 
 使用更可靠的分析法获得的 P4 水平数据可以用来解释先前使用 IAs 得到的 16–18 小时生物半衰期 ([Wiki](https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Elimination_and_duration)).该半衰期是反常的，因为通 过静脉注射(IV)给予的黄体酮拥有非常短的半衰期——为 3 分钟 – 1.5 小时.达峰值浓度所需时间(Tmax)为 1–3 小时，所以口服黄体酮 会从胃肠道迅速地吸收，因此其长半衰期不归因于缓慢或延迟的吸收.使用更可靠分析法的研究发现半衰期仅为 5 小时，而 P4 水平在 4–8 小时内维持相对较高 ([Wiki-Graph](https://en.wikipedia.org/wiki/Template:Hormone_levels_with_oral_progesterone)).这些发现表明了口服黄体酮的作用时间比先前认为的要短的多，所以如果要使用口服黄体酮 ，建议每天分次服用，以保持 P4 水平的平衡.
 
 除了半衰期与作用时间之外，口服黄体酮其他的药代动力学参数还必须被重新评估，例如其生物利用度 (约 10% by IAs) .它目前真正 的口服利用度为不明，但根据最新的发现其利用度可能为 1–2%左右.
 
-## 口服黄体酮 —— 高剂量与神经甾体的副作用
+## 口服黄体酮: 高剂量与神经甾体的副作用
 
 非常高剂量的口服黄体酮使用可能会达到更高的 P4 水平.但是由于更可靠分析法的研究所发现使 用口服黄体酮达到的极低 P4 水平，可能在大多数情况下，即使非常高的剂量也只能达到低水平.同 时，高剂量的口服黄体酮会导致其代谢物的神经甾体水平上升，从而产生酒精类似副作用 ([Wiki](https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#First-pass_effect_and_neurosteroids); [Wiki](https://en.wikipedia.org/wiki/Pharmacodynamics_of_progesterone#Neurosteroid_effects)).这导致口服途径被认为是不实用的黄体酮给药途径.
 
@@ -93,7 +93,7 @@
 
 尽管口服黄体酮产生的 P4 水平非常低，但它通过首过效应产生的代谢物数量是不成比例的 ([Sitruk-Ware et al., 1987](<https://doi.org/10.1016/0010-7824(87)90088-6>); [de Lignieres, Dennerstein, & Backstrom](<https://doi.org/10.1016/0378-5122(94)00882-8>); [de Lignieres, 1999](<https://doi.org/10.1016/S0149-2918(00)88267-3>); [de Ziegler & Fanchin, 2000](<https://doi.org/10.1016/S0039-128X(00)00123-9>); [Lobo, 2000](https://books.google.com/books?id=i9HXKhjvNVAC&pg=PA433); [Kuhl, 2005](https://doi.org/10.1080/13697130500148875)).虽然其代谢物的效力远低于黄体酮，但已发现其中一些代谢物具 有类似的孕激素活性 ([Besch et al., 1965](<https://doi.org/10.1016/0026-0495(65)90031-4>); [Junkermann, Runnebaum, & Lisboa, 1977](<https://doi.org/10.1016/0039-128X(77)90131-3>); Lobo, 2000).该活性可能源自于它们自身具有的孕激素活性，或 可能源自于它们被转化回黄体酮或其他的代谢产物 (包括在组织内，如: 子宫) .这些代谢物包括: [20α-DHP](https://en.wikipedia.org/wiki/20%CE%B1-Dihydroprogesterone)、[20β-DHP](https://en.wikipedia.org/wiki/20%CE%B2-Dihydroprogesterone)、[5α-DHP](https://en.wikipedia.org/wiki/5%CE%B1-Dihydroprogesterone)、[3β-DHP](https://en.wikipedia.org/wiki/3%CE%B2-Dihydroprogesterone)、 [allopregnanolone](https://en.wikipedia.org/wiki/Allopregnanolone)、[11-deoxycorticosterone](https://en.wikipedia.org/wiki/11-Deoxycorticosterone).如果口服黄体酮的代谢物能有效地促进其孕激素活性，那么口服黄体酮的孕激素强度将大于其 P4 值所能 表达的.但是这只是理论上的可能性，需要更多的研究来确定口服黄体酮的代谢物是否能够在孕激素效果上带来有意义的影响.以现在临床研究上看 来，口服黄体酮能造成的孕激素作用是非常弱的.
 
-## 黄体酮 —— 非口服给药途径
+## 黄体酮: 非口服给药途径
 
 非口服途径黄体酮，如: 阴道内给药途径、直肠给药途径、舌下含服、注射等黄体酮途径，已被发现能大幅达到比口服更高的 P4 水平 ([Wiki](https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone)).这些给药途径可以代替口服以达到有意义的 P4 水平.然而不幸的是，非口服途径虽然比口服更有效，但它们也 有各自的局限性.
 
@@ -109,11 +109,11 @@
 
 肌注/皮下注射 (IM/SubQ progesterone): 黄体酮注射可以达到非常高的 P4 水平 ([Wiki](https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Intramuscular_injection); [Wiki-Graph](https://en.wikipedia.org/wiki/Template:Hormone_levels_with_progesterone_by_intramuscular_injection); [Wiki](https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Subcutaneous_injection); [Wiki-Graph](https://commons.wikimedia.org/wiki/File:Progesterone_levels_after_a_single_subcutaneous_injection_of_different_doses_of_an_aqueous_solution_of_progesterone_complexed_with_%CE%B2-cyclodextrin_in_postmenopausal_women.png)).但是这途径的持续时间相对较短，并且需要每 1–3 天注射一次，这对大多数人来说太频繁了，尤其是 长期治疗.与其他性激素如雌二醇相反，在化学上黄体酮不可能靠酯化来延长其作用持续时间，因为黄体酮没有 可用于酯化的羟基([hydroxyl groups](https://en.wikipedia.org/wiki/Hydroxy_group)).作用时间较持久的水溶液黄体酮注射因为造成注射部位疼痛反应，所以导 致它们被停用.但似乎水溶液形式的黄体酮注射仍还在某些东欧国家使用.
 
-## 黄体酮 —— 直肠给药途径 by Dr Will Powers
+## 黄体酮: 直肠给药途径 by Dr Will Powers
 
 由于口服途径导致的生物利用度问题，口服黄体酮只能达到非常低的 P4 水平，并只能产生非常弱的孕激素作用.因此，绕过首过效应的非口服途径是最佳选择.但是其他非口服途径存在不便以及不实用问题 (如地区限制) .直肠黄体酮则是非口服途径中最实用的途径.虽然世界上大多数地区都可能没售卖特别用于直肠途径的黄体酮栓剂(suppository)，但是口服黄体酮的胶囊剂已经成功地用于女性阴道途径，所以在理论上是可以通过直肠给药来达到类似效果的.而根据未发布轶事临床经验 (特别是来自于 Dr Powers)，口服用的黄体酮胶囊剂当作栓剂用于直肠途径，被观测到 P4 可达到更高水平，并与雌二醇一同使用可产生强大的睾酮抑制作用.
 
-Dr. Will Powers —— from [Powers Family Medicine](https://powersfamilymedicine.com/) in Farmington Hills, Michigan, USA ([Reddit](https://reddit.com/u/DrWillPowers); [Facebook](https://www.facebook.com/DrWillPowers/)) Dr Powers 在他的跨性别女性患者中使用微粉化口服黄体酮 (充油胶囊形式) 作为栓剂.他在这一领域的发现都是基于他的临床实践中患者的血液报告，具有一定的价值.
+Dr. Will Powers: from [Powers Family Medicine](https://powersfamilymedicine.com/) in Farmington Hills, Michigan, USA ([Reddit](https://reddit.com/u/DrWillPowers); [Facebook](https://www.facebook.com/DrWillPowers/)) Dr Powers 在他的跨性别女性患者中使用微粉化口服黄体酮 (充油胶囊形式) 作为栓剂.他在这一领域的发现都是基于他的临床实践中患者的血液报告，具有一定的价值.
 
 但同时必须注意，这些都是未发布且都是轶事证据，他所声称的都还未经证实.尽管如此，在已发表的文献中，口服黄体酮胶囊已经成功应用于女性阴道作为给药途径 ([Miles et al., 1994](<https://doi.org/10.1016/s0015-0282(16)56935-0>) )，而阴道与直肠途径的药代动力学相似 ([Goletiani, Keith, & Gorsky, 2007](https://doi.org/10.1037/1064-1297.15.5.427); [Wiki](https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Rectal_administration)).因此，该方法作为黄体酮的有效给药途径具有良好的理论基础.
 
@@ -137,14 +137,14 @@ Dr. Will Powers —— from [Powers Family Medicine](https://powersfamilymedicin
 
 此类黄体制剂包括:
 
-➢ 醋酸环丙孕酮 (CPA) —— 色普龙 / Androcur
-➢ 屈螺酮 (Drospirenone) —— 优思明 / Yasmin
+➢ 醋酸环丙孕酮 (CPA): 色普龙 / Androcur
+➢ 屈螺酮 (Drospirenone): 优思明 / Yasmin
 ➢ 地诺孕素 (Dienogest)
-➢ 己酸羟孕酮 (OHPC) —— プロゲストンデポー (Progeston depot)；大家所熟悉的“日孕”
+➢ 己酸羟孕酮 (OHPC): プロゲストンデポー (Progeston depot)；大家所熟悉的“日孕”
 
 与黄体酮相反，黄体制剂不会产生神经甾体代谢产物或其相关活性.
 
-## 泌乳素 (PRL) —— 监测指南
+## 泌乳素 (PRL): 监测指南
 
 | 水平 (ng/mL) | 水平 (mIU/L) |                                                                  行动                                                                   |
 | :----------: | :----------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
@@ -155,6 +155,6 @@ Dr. Will Powers —— from [Powers Family Medicine](https://powersfamilymedicin
 
 [Iwamoto et al. (2019)](https://doi.org/10.1177%2F2042018819871166)
 
-Callen-Lorde Community Health Center (2018) —— Protocols for the Provision of Hormone Therapy
+Callen-Lorde Community Health Center (2018): Protocols for the Provision of Hormone Therapy
 
 [[URL](https://callen-lorde.org/transhealth/)] [[PDF](https://callen-lorde.org/graphics/2018/04/Callen-Lorde-TGNC-Hormone-Therapy-Protocols.pdf#page=32)]

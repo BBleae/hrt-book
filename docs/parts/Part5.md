@@ -33,9 +33,9 @@ Brand name: “Proscar”；”Avodart”
 
 ### 推荐剂量
 
-➢ 度他雄胺 —— 口服: 0.5mg/天
+➢ 度他雄胺: 口服: 0.5mg/天
 
-➢ 非那雄胺 —— 口服: 0.25 ~ 5mg/天
+➢ 非那雄胺: 口服: 0.25 ~ 5mg/天
 
 ## DHT 的合成途径
 
@@ -51,7 +51,7 @@ DHT 的 3 个来源途径为:
 - 前门途径 DHEA → DHT {.blue}
 - 后门途径 黄体酮 (P) → DHT {.green}
 
-## DHT 异常 —— 例子
+## DHT 异常: 例子
 
 一般上被认为接受过“睾丸切除术或 SRS”后的跨性别女性是完全不需要担心雄激 素问题的，但这个认识是不正确的.在可能性上是完全有可能在术后还是会因为 雄激素的影响造成男性化症状的.术后的女性一般上不用担心睾酮问题，但是在 非常罕见的情况下，非常少数的人可能会拥有高水平 DHT 问题.
 
@@ -64,8 +64,8 @@ DHT 的 3 个来源途径为:
 DHT 标准水平:
 
 - [Esoterix/LabCorp (2020)](https://drive.google.com/file/d/1AmUJqhstSmIrcEdqmx_hLINfQLkPqqDx/view?usp=sharing) — HPLC-MS/MS
-  - 成年男性 —— 30–80 ng/dL
-  - 成年女性 —— 4–22 ng/dL
+  - 成年男性: 30–80 ng/dL
+  - 成年女性: 4–22 ng/dL
 - [Nakamoto (2016)](https://doi.org/10.1016/B978-0-323-18907-1.00154-2) — LC-MS/MS
-  - 成年男性 —— 16–79 ng/dL
-  - 成年女性 —— 5–46 ng/dL
+  - 成年男性: 16–79 ng/dL
+  - 成年女性: 5–46 ng/dL
