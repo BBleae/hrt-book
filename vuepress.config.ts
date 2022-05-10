@@ -38,6 +38,14 @@ const config = defineUserConfig({
         link: '/menu/',
       },
       {
+        text: 'Cafe',
+        link: '/cafe/',
+      },
+      {
+        text: '工具',
+        link: '/tools/',
+      },
+      {
         text: '链接',
         link: '/link/',
       },
@@ -52,7 +60,9 @@ const config = defineUserConfig({
     md.use(markdownItAttrs)
     md.use(markdownItInsert)
     md.use(markdownItImsize)
-    md.use(markdownItMultimdTable)
+    md.use(markdownItMultimdTable, {
+      rowspan: true,
+    })
   },
   plugins: [
     registerComponentsPlugin({
