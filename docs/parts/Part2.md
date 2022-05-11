@@ -308,14 +308,22 @@ F. 不包括产后期段.如果包括产后期，血栓风险率为 5–10× (Mc
 
 Sources of the table:
 
-❖ E2、CEEs ➢ [Vinogradova et al. (2019a)](https://doi.org/10.1136/bmj.k4810); [Wiki-Table](<https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD)>)
-❖ 现代 EE + 孕 (避孕药) ➢ [Heit, Spencer, & White (2016)](https://doi.org/10.1007/s11239-015-1311-6)
-❖ 高剂量 EE + 孕 (避孕药) ➢ [PCASRM (2017)](https://doi.org/10.1016/j.fertnstert.2016.09.027); [Wiki-Table](https://en.wikipedia.org/wiki/Template:Dose_of_ethinylestradiol_in_birth_control_pills_and_risk_of_venous_thromboembolism)
-❖ 高剂量口服 DES、EE、或 EMP ➢ [Seaman et al. (2007)](https://doi.org/10.1111/j.1464-410X.2007.06859.x); [Klil-Drori et al. (2015)](https://doi.org/10.1016/j.eururo.2015.06.022); [Ravery et al. (2011)](https://doi.org/10.1111/j.1464-410X.2011.10201.x)
-❖ SERMs (他莫昔芬、雷洛昔芬) ➢ [Deitcher & Gomes (2004)](https://doi.org/10.1002/cncr.20347); [Iqbal et al. (2012)](https://doi.org/10.1016/j.ctrv.2011.06.009); [Konkle & Sood (2019)](https://www.sciencedirect.com/science/article/pii/B9780323462020000315)
-❖ 怀孕 (总体) ➢ [Heit, Spencer, & White (2016)](https://doi.org/10.1007/s11239-015-1311-6)
-❖ 怀孕 (第三期) ➢ [Sultan et al. (2015)](http://dx.doi.org/10.1136/bmjopen-2015-008864); [Wiki-Table](https://en.wikipedia.org/wiki/Template:Venous_thromboembolism_incidence_during_pregnancy_and_the_postpartum_period)
-❖ 高剂量 CPA (单独) ➢ [Seaman et al. (2007)](https://doi.org/10.1111%2Fj.1464-410X.2007.06859.x); [Beyer-Westendorf et al. (2010)](https://doi.org/10.1016%2FS0049-3848%2810%2970035-9); [Van Hemelrijck et al. (2010)](https://doi.org/10.1016%2FS1470-2045%2810%2970038-3)
+- E2、CEEs
+  - [Vinogradova et al. (2019a)](https://doi.org/10.1136/bmj.k4810); [Wiki-Table](<https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD)>)
+- 现代 EE + 孕 (避孕药)
+  - [Heit, Spencer, & White (2016)](https://doi.org/10.1007/s11239-015-1311-6)
+- 高剂量 EE + 孕 (避孕药)
+  - [PCASRM (2017)](https://doi.org/10.1016/j.fertnstert.2016.09.027); [Wiki-Table](https://en.wikipedia.org/wiki/Template:Dose_of_ethinylestradiol_in_birth_control_pills_and_risk_of_venous_thromboembolism)
+- 高剂量口服 DES、EE、或 EMP
+  - [Seaman et al. (2007)](https://doi.org/10.1111/j.1464-410X.2007.06859.x); [Klil-Drori et al. (2015)](https://doi.org/10.1016/j.eururo.2015.06.022); [Ravery et al. (2011)](https://doi.org/10.1111/j.1464-410X.2011.10201.x)
+- SERMs (他莫昔芬、雷洛昔芬)
+  - [Deitcher & Gomes (2004)](https://doi.org/10.1002/cncr.20347); [Iqbal et al. (2012)](https://doi.org/10.1016/j.ctrv.2011.06.009); [Konkle & Sood (2019)](https://www.sciencedirect.com/science/article/pii/B9780323462020000315)
+- 怀孕 (总体)
+  - [Heit, Spencer, & White (2016)](https://doi.org/10.1007/s11239-015-1311-6)
+- 怀孕 (第三期)
+  - [Sultan et al. (2015)](http://dx.doi.org/10.1136/bmjopen-2015-008864); [Wiki-Table](https://en.wikipedia.org/wiki/Template:Venous_thromboembolism_incidence_during_pregnancy_and_the_postpartum_period)
+- 高剂量 CPA (单独)
+  - [Seaman et al. (2007)](https://doi.org/10.1111%2Fj.1464-410X.2007.06859.x); [Beyer-Westendorf et al. (2010)](https://doi.org/10.1016%2FS0049-3848%2810%2970035-9); [Van Hemelrijck et al. (2010)](https://doi.org/10.1016%2FS1470-2045%2810%2970038-3)
 
 ## 血栓（VTE）风险率: 其他因素
 
