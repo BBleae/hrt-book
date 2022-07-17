@@ -22,7 +22,7 @@
 ### 合成雌激素 (Non-bioidentical Estrogens)
 
 - 炔雌醇 (Ethinylestradiol / EE)
-  - 避孕药等药物 (如: 优思明、妈富隆、英 达 35)
+  - 避孕药等药物 (如: 优思明、妈富隆、达英 35)
 - 结合雌激素 (Conjugated estrogens / CEEs)
   - 绝经期激素治疗药物
 - 己烯雌酚 (Diethylstilbestrol / DES)
