@@ -1,26 +1,26 @@
 # Part 4 乳房发育 (Breast Development) 篇
 
-## 黄体酮: 青春期女性乳房发育中的作用
+## 黄体酮在青春期女性乳房发育中的作用
 
 黄体酮在乳房发育上的作用以及在跨性别女性 HRT 中助于乳房发育的可能性，可通过顺性别女性青春期有关生物学来解释.黄体酮基本上在排卵期前的青 春期阶段期间不会出现.初潮([Menarche](https://en.wikipedia.org/wiki/Menarche))，第一次月经，一般上在乳房发育第 4 分期(Tanner 4)发生，虽然也可发生在某些女性的第 3 分期、以及第 5 分期中 (Tanner 5 乳房发育完成阶段) ([Marshall & Tanner, 1969](https://doi.org/10.1136/adc.44.235.291); [Hillard, 2007](https://doctorlib.info/gynecology/berek-novak-gynecology/14.html)).乳房发育第 4 分期平均上是在乳房发育 2.5 年后开始，而乳房发育全期所需时间平均 为 3.5 年.因此，黄体酮的出现在正常女性发育期中是相对较晚的事 ([Marshall, 1978](https://doi.org/10.1007/978-1-4684-2622-9_6); [Begley, Firth, & Hoult, 1980](https://doi.org/10.1007/978-1-349-16260-4_14); [Drife, 1986](https://doi.org/10.1111/j.1749-6632.1986.tb15993.x)).
 
 生殖轴/系统在青春期女性中是未成熟的 ([Rosenfield, 2013](https://doi.org/10.1210/jc.2013-1770); [Gunn et al., 2018](https://doi.org/10.1016/j.jpag.2018.07.009); [Sun et al., 2019](https://doi.org/10.1210/jc.2018-00595); [Carlson & Shaw, 2019](https://doi.org/10.1016/j.jpag.2019.02.119)).在初潮后的 1–2 年，大多数的月经周期 是无排卵的 ([Döring, 1963-Table](https://imgur.com/a/AmsXobg); [Apter, 1980](https://doi.org/10.1111/j.1365-2265.1980.tb02125.x); [Lemarchand-Béraud et al., 1982](https://doi.org/10.1210/jcem-54-2-241); [Talbert et al., 1985](https://journals.lww.com/greenjournal/abstract/1985/10000/relationship_of_age_and_pubertal_development_to.21.aspx); [Venturoli et al., 1987](<https://doi.org/10.1016/S0015-0282(16)59294-2>); Rosenfield, 2013; Gunn et al., 2018; Carlson & Shaw, 2019).在非排卵期中，黄体不会从破裂后的卵泡形成，就不会有黄体酮的产生.只有大约一半的月经周期在第 5 分期时会排卵.此外，月经周 期在初潮后的一段时间内异常的长 (50 天，相比于成人时的 28 天)，所以月经频率在每个生殖年后会减少.就算发生了排卵，初潮后少女的黄体期所导致的 P4 水平也比成年期更低 ([McArthur, 1966](https://scholar.google.com/scholar?cluster=4939352678804332001) [Figure](https://i.imgur.com/QdobKvI.png); [Apter et al., 1987](<https://doi.org/10.1016/S0015-0282(16)49940-1>); [Venturoli et al., 1989](https://doi.org/10.1007/BF00934127); Sun et al., 2019).即使在女性青春后期，黄体酮的出现也是偶尔发 生且非常有限的.而这不只是在 Tanner 5 分期，在之后的数年也是如此.生殖轴需要在初潮后 6 年以上来完全成熟并持续地排卵.在这段时间里排卵周期的速 率逐渐增加直到 100%.只有到那时才会产生完全性黄体酮的接触.
 
-有些发现表明，黄体酮对于青春期乳房发育是必不可少的.但是其中一个例子是，患有完全性雄激素不敏感综合征 (简称 — [CAIS](https://en.wikipedia.org/wiki/Complete_androgen_insensitivity_syndrome)) 的女性.她们体内没有黄 体酮但是却拥有良好且丰满的乳房发育.如上所述的另一个例子是，一部分在初潮前就到达 Tanner 5 (即: 完全乳房成长) 的女性，也是在没有黄体酮影响的 情况下拥有良好的乳房发育.因为缺乏研究资料，我们不清楚黄体酮是否会影响青春期乳房发育，但是我们知道的是黄体酮在这方面上不是非常有希望的. 从理论上来说，过早引入黄体酮可能会对最终的乳房发育结果会产生不利影响，但这还需要更多的研究来证实这种可能性，这也可能仅适用于高剂量的孕 激素使用 (详细请看—— “孕激素: 早期导入造成乳房发育不良的可能性” 篇).
+有些发现表明，黄体酮对于青春期乳房发育是必不可少的.但是其中一个例子是，患有[完全性雄激素不敏感综合征]((https://en.wikipedia.org/wiki/Complete_androgen_insensitivity_syndrome)) (简称CAIS) 的女性.她们体内没有黄体酮但是却拥有良好且丰满的乳房发育.如上所述的另一个例子是，一部分在初潮前就到达 Tanner 5 (即: 完全乳房成长) 的女性，也是在没有黄体酮影响的 情况下拥有良好的乳房发育.因为缺乏研究资料，我们不清楚黄体酮是否会影响青春期乳房发育，但是我们知道的是黄体酮在这方面上不是非常有希望的. 从理论上来说，过早引入黄体酮可能会对最终的乳房发育结果会产生不利影响，但这还需要更多的研究来证实这种可能性，这也可能仅适用于高剂量的孕 激素使用 (详细请看—— “[早期导入孕激素造成乳房发育不良的可能性](#早期导入孕激素造成乳房发育不良的可能性)” 篇).
 
-## 黄体酮: CAIS 女性与乳房发育
+> 一种说法 (主要源自于 Dr Will Powers) : “黄体酮可助于乳房成长，使其长得更大” 或 “黄体酮不能长胸，但是可以把胸变完整、变圆，把乳房的形状从尖变圆 (从第 4 分期 成长至第 5 分期) ” 并没有证据能证实黄体酮是青春期乳房发育需要、或从 Tanner 4 发育至 Tanner 5 的必要激素.
 
-说法 (主要源自于 Dr Will Powers) : “黄体酮可助于乳房成长，使其长得更大” 或 “黄体酮不能长胸，但是可以把胸变完整、变圆，把乳房的形状从尖变圆 (从第 4 分期 成长至第 5 分期) ” 并没有证据能证实黄体酮是青春期乳房发育需要、或从 Tanner 4 发育至 Tanner 5 的必要激素.
+### 关于黄体酮对于啮齿类动物乳腺形成的关系
 
-### 关于黄体酮对于啮齿类动物乳腺形成的关系 ([Ismail et al., 2003](<https://doi.org/10.1016/S0039-128X(03)00133-8>))
+>来源 ([Ismail et al., 2003](<https://doi.org/10.1016/S0039-128X(03)00133-8>))
 
 此研究把老鼠的黄体酮受体(PRs)敲除后，并发现在乳房发育结果上与普通老鼠没有差别.黄体酮对于在老鼠怀孕期时乳腺小叶 (milk lobules)的成熟是非常重要的，而不是乳房成长，至少对于动物 (当 P4 水平比人类女性黄体期高 20 倍时).
 
-“As a way of directly delineating progesterone’s involvement in general reproductive endocrinology and in mammary gland development in particular, a progesterone receptor knockout (PRKO) mouse was generated in which both isoforms of the PR were functionally ablated through gene targeting approaches [37]. As expected, abrogation of the progesterone signal resulted in an overt female infertility phenotype in which normal ovarian-, uterine-, and behavioral-functions were severely compromised.
+> “As a way of directly delineating progesterone’s involvement in general reproductive endocrinology and in mammary gland development in particular, a progesterone receptor knockout (PRKO) mouse was generated in which both isoforms of the PR were functionally ablated through gene targeting approaches [37]. As expected, abrogation of the progesterone signal resulted in an overt female infertility phenotype in which normal ovarian-, uterine-, and behavioral-functions were severely compromised.
+>
+> Despite the above reproductive phenotypes, the PRKO mammary epithelium responded to the pubertal rise in serum levels of estrogen to generate a ductal architecture that was morphologically indistinguishable from that of the wild type (WT) virgin [37]. The normal development of the PRKO pubertal gland contrasted with the ER-α knockout (ERKO) gland in which the absence of the ER-α resulted in a defect in mammary ductal outgrowth at puberty [38]. In sum, the comparative analysis of the PRKO and ERKO mammary glands underscored the unique importance of ovarian estrogen, rather than progesterone, in the early postnatal stages of mammary gland development.”
 
-Despite the above reproductive phenotypes, the PRKO mammary epithelium responded to the pubertal rise in serum levels of estrogen to generate a ductal architecture that was morphologically indistinguishable from that of the wild type (WT) virgin [37]. The normal development of the PRKO pubertal gland contrasted with the ER-α knockout (ERKO) gland in which the absence of the ER-α resulted in a defect in mammary ductal outgrowth at puberty [38]. In sum, the comparative analysis of the PRKO and ERKO mammary glands underscored the unique importance of ovarian estrogen, rather than progesterone, in the early postnatal stages of mammary gland development.”
-
-## 患有 CAIS (完全型雄激素不敏感综合征) 女性的乳房发育
+## 患有 CAIS (完全型雄激素不敏感综合征) 的女性的乳房发育
 
 患有 CAIS ([Wiki](https://en.wikipedia.org/wiki/Complete_androgen_insensitivity_syndrome)) 的女性拥有被评估为“优秀”、“正常”、“丰满”、“完全”、“发达”、“肉感的”、“高于平均水平”的乳房发育. ([Morris, 1953](<https://doi.org/10.1016/0002-9378(53)90359-7>); [Roy hertz et al., 1966](https://doi.org/10.7326/0003-4819-65-4-800); [Valentine, 1969](https://books.google.com/books?id=8F9rAAAAMAAJ); [Adams et al., 1970](https://doi.org/10.1177%2F000992287000900312); [Polani, 1970](https://doi.org/10.1098/rstb.1970.0058); [Weisberg, Malkasian, & Pratt, 1970](<https://doi.org/10.1016/S0002-9378(15)30367-7>); [Dewhurst, 1971](<https://doi.org/10.1016/0002-9378(71)90753-8>); [Glenn, 1976](<https://doi.org/10.1016/0090-4295(76)90079-0>); [McPhaul, & Hughes, 1994](<https://doi.org/10.1016/S0950-351X(05)80258-7>); [Quigley et al., 1995](https://doi.org/10.1210/edrv-16-3-271); [McPhaul, 2002](<https://doi.org/10.1016/S0303-7207(02)00369-6>); [Galani et al., 2008](https://doi.org/10.14310/horm.2002.1201); [Oakes et al., 2008](https://doi.org/10.1016/j.jpag.2007.09.006); [Tiefenbacher & Daxenbichler, 2008; Barbieri, 2017](https://doi.org/10.1159/000158055))
 
@@ -42,7 +42,7 @@ CAIS 女性也不止是有第 3 分期的乳房发育，她们都能到达与普
 
 当然，黄体酮对于乳房发育这方面未被真正地对顺性别与跨性别女性中研究过，就只有某些黄体制剂.有人认为由于黄体酮与黄体制剂不同所以带来的孕激素作用不同.但是黄体酮与 黄体制剂都是孕激素受体激动剂，所以并没有理由证明它们对于乳房发育会有所不同.
 
-## 孕激素: 早期导入造成乳房发育不良的可能性
+## 早期导入孕激素造成乳房发育不良的可能性
 
 文献中曾提起过早期孕激素的影响可能会引起乳房发育不良.一项动物研究发现，对兔子使用高剂量黄体酮可导致乳腺发育不良问题，而这在较低剂量下并不会发生 ([Lyons & McGinty, 1941](https://doi.org/10.3181/00379727-48-13227)).目前对于这种现象是否会发生在人类中还不清楚.并且如果确实可能发生这现象，能产生这种现象的 P4 水平依然不明.这页面是有关该主题的文献集合.
 
