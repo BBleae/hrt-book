@@ -13,8 +13,8 @@ QQ 群: 1075287432
 
 ## 有用的链接
 
-[MtF小站](https://mtf.qwq.pink/): 一个跨性别相关内容的存储/备份网站
+[MtF 小站](https://mtf.qwq.pink/): 一个跨性别相关内容的存储/备份网站
 
-[MTF Wiki](https://mtf.wiki): Mtf 相关的综合性 Wiki (不止有 HRT 相关)
+[MtF Wiki](https://mtf.wiki): Mtf 相关的综合性 Wiki (不止有 HRT 相关)
 
 [HRT.Cafe](https://hrt.cafe): 由海外 DIYHRT 社群整理的 HRT 药商索引（不出售药物，仅展示信息），纯英文网站，不保证在国内可用，购买需自行承担风险
