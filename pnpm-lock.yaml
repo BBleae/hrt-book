@@ -4,6 +4,7 @@ specifiers:
   '@antfu/eslint-config': ^0.26.1
   '@vuepress/client': 2.0.0-beta.45
   '@vuepress/plugin-register-components': ^2.0.0-beta.43
+  '@vuepress/utils': 2.0.0-alpha.1
   eslint: ^8.23.0
   less: ^4.1.3
   markdown-it: ^13.0.1
@@ -20,6 +21,7 @@ devDependencies:
   '@antfu/eslint-config': 0.26.1_yqf6kl63nyoq5megxukfnom5rm
   '@vuepress/client': 2.0.0-beta.45
   '@vuepress/plugin-register-components': 2.0.0-beta.43
+  '@vuepress/utils': 2.0.0-alpha.1
   eslint: 8.23.0
   less: 4.1.3
   markdown-it: 13.0.1
@@ -244,6 +246,10 @@ packages:
     resolution: {integrity: sha512-nEnwB++1u5lVDM2UI4c1+5R+FYaKfaAzS4OococimjVm3nQw3TuzH5UNsocrcTBbhnerblyHj4A49qXbIiZdpA==}
     dependencies:
       '@types/node': 17.0.31
+    dev: true
+
+  /@types/hash-sum/1.0.0:
+    resolution: {integrity: sha512-FdLBT93h3kcZ586Aee66HPCVJ6qvxVjBlDWNmxSGSbCZe9hTsjRKdSsl4y1T+3zfujxo9auykQMnFsfyHWD7wg==}
     dev: true
 
   /@types/json-schema/7.0.11:
@@ -723,6 +729,12 @@ packages:
       - supports-color
     dev: true
 
+  /@vuepress/shared/2.0.0-alpha.1:
+    resolution: {integrity: sha512-W0tLKLV9R3GDzT2LjXbyOpM8tgPNbhmzHJA4JlrifRsxzmugxlxbn24lL6G0mWd21ZJ2wj5tgRA8k7NCJ9jGVQ==}
+    dependencies:
+      '@vue/shared': 3.2.37
+    dev: true
+
   /@vuepress/shared/2.0.0-beta.43:
     resolution: {integrity: sha512-MzO81IMmwmoJiU5g+U3+RhXCsQ5rdv/WQxj8xqozl3hRNpmzmF0Pi/Kc06P+5bZb2kVqv1eZIdQ9U91K9mi8HA==}
     dependencies:
@@ -763,6 +775,24 @@ packages:
       vue-router: 4.0.15_vue@3.2.37
     transitivePeerDependencies:
       - '@vue/composition-api'
+      - supports-color
+    dev: true
+
+  /@vuepress/utils/2.0.0-alpha.1:
+    resolution: {integrity: sha512-qipGA5fDAkD49m/6o6Puks+Nke4wJ5rjIDGAY2jZRbULCVVAyKBMXXhckGFvtcPCKtFKU1hP897gG3NCvYYHxg==}
+    dependencies:
+      '@types/debug': 4.1.7
+      '@types/fs-extra': 9.0.13
+      '@types/hash-sum': 1.0.0
+      '@vuepress/shared': 2.0.0-alpha.1
+      chalk: 4.1.2
+      debug: 4.3.4
+      fs-extra: 9.1.0
+      globby: 11.1.0
+      hash-sum: 2.0.0
+      ora: 5.4.1
+      upath: 1.2.0
+    transitivePeerDependencies:
       - supports-color
     dev: true
 
@@ -913,6 +943,11 @@ packages:
       define-properties: 1.1.4
       es-abstract: 1.19.5
       es-shim-unscopables: 1.0.0
+    dev: true
+
+  /at-least-node/1.0.0:
+    resolution: {integrity: sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==}
+    engines: {node: '>= 4.0.0'}
     dev: true
 
   /autoprefixer/10.4.7_postcss@8.4.13:
@@ -2032,6 +2067,16 @@ packages:
     resolution: {integrity: sha512-oRXApq54ETRj4eMiFzGnHWGy+zo5raudjuxN0b8H7s/RU2oW0Wvsx9O0ACRN/kRq9E8Vu/ReskGB5o3ji+FzHQ==}
     engines: {node: '>=12'}
     dependencies:
+      graceful-fs: 4.2.10
+      jsonfile: 6.1.0
+      universalify: 2.0.0
+    dev: true
+
+  /fs-extra/9.1.0:
+    resolution: {integrity: sha512-hcg3ZmepS30/7BSFqRvoo3DOMQu7IjqxO5nCDt+zM9XWjb33Wg7ziNT+Qvqbuc3+gWpzO02JubVyk2G4Zvo1OQ==}
+    engines: {node: '>=10'}
+    dependencies:
+      at-least-node: 1.0.0
       graceful-fs: 4.2.10
       jsonfile: 6.1.0
       universalify: 2.0.0
@@ -3538,6 +3583,11 @@ packages:
   /universalify/2.0.0:
     resolution: {integrity: sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==}
     engines: {node: '>= 10.0.0'}
+    dev: true
+
+  /upath/1.2.0:
+    resolution: {integrity: sha512-aZwGpamFO61g3OlfT7OQCHqhGnW43ieH9WZeP7QxN/G/jS4jfqUkZxoryvJgVPEcrl5NL/ggHsSmLMHuH64Lhg==}
+    engines: {node: '>=4'}
     dev: true
 
   /upath/2.0.1:
