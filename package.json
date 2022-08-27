@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "preinstall": "npx only-allow pnpm",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
