@@ -28,6 +28,21 @@ const config = defineUserConfig({
     contributorsText: '贡献者',
     lastUpdated: false,
     externalLinkIcon: true,
+    sidebar: {
+      '/cafe/': [
+        'HOME',
+        'DONATE',
+        'Estradiol',
+        'Progesterone',
+        'Anti-Androgens',
+        'HairLoss',
+        'SERMs',
+        'Miscellaneous',
+        'RESOURCES',
+        'CONTACT',
+      ],
+      '/': [''],
+    },
     navbar: [
       {
         text: '首页',
