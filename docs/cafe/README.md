@@ -8,4 +8,4 @@
 
 ### 重要告示：hrt.cafe不出售药物。此网站只是HRT相关药物的信息来源。
 
-## [hrt.cafe译文主页](./HOME.md)
+## [diyhrt.cafe译文主页](./HOME.md)
