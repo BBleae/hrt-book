@@ -22,3 +22,10 @@ sidebar: false
 ## 春河晴: [Twitter](https://twitter.com/HarukawaSayaka)
 
 来自中国的跨性别女性，负责本文档的维护.
+
+## GitHub Contributors
+<a href="https://github.com/BBleae/hrt-book/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BBleae/hrt-book&max=50&anon=1" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
