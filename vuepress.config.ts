@@ -7,6 +7,8 @@ import markdownItMultimdTable from 'markdown-it-multimd-table'
 import { path } from '@vuepress/utils'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
+const partsNum = 7
+
 const config = defineUserConfig({
   lang: 'zh-CN',
   title: 'Shizu\'s HRT Guide',
@@ -41,6 +43,9 @@ const config = defineUserConfig({
         'RESOURCES',
         'CONTACT',
       ],
+      // ['Part0', 'Part1', 'Part2', ...]
+      '/parts/': Array.from({ length: partsNum }, (_, i) => i)
+        .map(n => `Part${n}`),
       '/': [''],
     },
     navbar: [
