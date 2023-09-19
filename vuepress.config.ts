@@ -24,12 +24,14 @@ const config = defineUserConfig({
     docsRepo: 'BBleae/hrt-book',
     docsDir: 'docs',
     docsBranch: 'main',
-    editLinks: true,
+    editLink: true,
     editLinkText: '编辑本页面',
     contributors: true,
     contributorsText: '贡献者',
     lastUpdated: false,
-    externalLinkIcon: true,
+    themePlugins: {
+      externalLinkIcon: true,
+    },
     sidebar: {
       '/cafe/': [
         'HOME',
@@ -91,4 +93,4 @@ const config = defineUserConfig({
   ],
 })
 
-module.exports = config
+export default config
