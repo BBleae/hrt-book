@@ -1,3 +1,4 @@
+import { readdirSync } from 'node:fs'
 import { defaultTheme, defineUserConfig } from 'vuepress'
 import markdownItAttrs from 'markdown-it-attrs'
 import markdownItBracketedSpans from 'markdown-it-bracketed-spans'
@@ -7,7 +8,7 @@ import markdownItMultimdTable from 'markdown-it-multimd-table'
 import { path } from '@vuepress/utils'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
-const partsNum = 7
+const parts = readdirSync('./docs/parts/')
 
 const config = defineUserConfig({
   lang: 'zh-CN',
@@ -46,7 +47,7 @@ const config = defineUserConfig({
         'CONTACT',
       ],
       // ['Part0', 'Part1', 'Part2', ...]
-      '/parts/': Array.from({ length: partsNum }, (_, i) => i)
+      '/parts/': Array.from({ length: parts.length }, (_, i) => i)
         .map(n => `Part${n}`),
       '/': [''],
     },
