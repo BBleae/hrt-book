@@ -7,8 +7,11 @@ import markdownItImsize from 'markdown-it-imsize'
 import markdownItMultimdTable from 'markdown-it-multimd-table'
 import { path } from '@vuepress/utils'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { collapsibleTopLevelSidebar } from 'vuepress-collapsible-toplevel-sidebar'
 
+// ['Part0', 'Part1', 'Part2', ...]
 const parts = readdirSync('./docs/parts/')
+  .map(partName => partName.replace(/.md$/g, ''))
 
 const config = defineUserConfig({
   lang: 'zh-CN',
@@ -46,9 +49,6 @@ const config = defineUserConfig({
         'RESOURCES',
         'CONTACT',
       ],
-      // ['Part0', 'Part1', 'Part2', ...]
-      '/parts/': Array.from({ length: parts.length }, (_, i) => i)
-        .map(n => `Part${n}`),
       '/': [''],
     },
     navbar: [
@@ -91,6 +91,7 @@ const config = defineUserConfig({
     registerComponentsPlugin({
       componentsDir: path.join(__dirname, './components'),
     }),
+    collapsibleTopLevelSidebar('/parts/', parts),
   ],
 })
 
