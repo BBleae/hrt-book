@@ -5,7 +5,7 @@ sidebar: false
 
 ## しず / shizu: [Twitter](https://twitter.com/shizunyan_)
 
-来自日本的跨性别女性，此 Slides 的作者.
+此 Slides 的作者
 
 ## Aly W.: [Reddit](https://reddit.com/u/Alyw234237)
 
