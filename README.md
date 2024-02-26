@@ -1,6 +1,6 @@
-# MtF HRT 资料 by shizu
+# MtF GAHT Guide by Shizu
 
-[Origin](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA)
+[Origin](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA) (deprecated)
 
 ## Contributors
 <a href="https://github.com/BBleae/hrt-book/graphs/contributors">
