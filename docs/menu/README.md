@@ -44,7 +44,7 @@
 
 [雌激素：血栓风险](../parts/Part2.md#雌激素-血栓风险)
 
-[#非天然雌激素：肝脏代谢抗性](../parts/Part2.md##非天然雌激素-肝脏代谢抗性)
+[非天然雌激素：肝脏代谢抗性](../parts/Part2.md#非天然雌激素-肝脏代谢抗性)
 
 ## [Part 3 孕激素 (Progestogens) 篇](../parts/Part3.md)
 
