@@ -1,6 +1,4 @@
-# MtF GAHT Guide by Shizu
-
-[Origin](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA) (deprecated)
+# MtF GAHT Guide
 
 ## Contributors
 <a href="https://github.com/BBleae/hrt-book/graphs/contributors">
