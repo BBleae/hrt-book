@@ -8,7 +8,7 @@ actions:
     type: primary
 ---
 
-# MtF HRT 资料 by shizu
+# MtF GAHT 资料
 
 这是一份关于跨性别者激素治疗/gender-affirming hormone therapy (GAHT) 的医学资料
 

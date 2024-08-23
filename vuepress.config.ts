@@ -15,8 +15,8 @@ const parts = readdirSync('./docs/parts/')
 
 const config = defineUserConfig({
   lang: 'zh-CN',
-  title: 'Shizu\'s HRT Guide',
-  description: 'Shizu\'s HRT Guide for transfemale',
+  title: 'GAHT Guide',
+  description: 'GAHT Guide for transfemale',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'stylesheet', href: '/custom.css', type: 'text/css' }],

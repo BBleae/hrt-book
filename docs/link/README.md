@@ -4,14 +4,6 @@ sidebar: false
 
 # 链接
 
-## 关于我们
-
-QQ 群: 1075287432
-
-[Telegram: shizu’s HRT 群](https://t.me/joinchat/7ummDEnUDSUwZjM1)
-
-[Google Docs](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA)（本站HRT资料的起源，已归档）
-
 ## 有用的链接
 
 [MtF 小站](https://mtf.qwq.pink): 一个跨性别相关内容的存储/备份网站
